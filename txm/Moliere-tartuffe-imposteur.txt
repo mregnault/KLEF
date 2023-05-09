@@ -1,70 +1,70 @@
 PERSONNAGES
 
 
-Mme Pernelle, mère d’Orgon[1].
-Orgon, mari d’Elmire[2].
-Elmire, femme d’Orgon[3].
-Damis, fils d’Orgon[4].
-Mariane, fille d’Orgon et amante de Valère[5].
-Valère, amant de Mariane[6].
-Cléante, beau-frère d’Orgon[7].
-Tartuffe, faux dévot[8].
-Dorine, suivante de Mariane[9].
-M. Loyal, sergent[10].
-Un Exempt.
-Flipote, servante de madame Pernelle.
-La scène est à Paris dans la maison d’Orgon.
+[Mme Pernelle, mère d’Orgon.]
+[Orgon, mari d’Elmire.]
+[Elmire, femme d’Orgon.]
+[Damis, fils d’Orgon.]
+[Mariane, fille d’Orgon et amante de Valère.]
+[Valère, amant de Mariane.]
+[Cléante, beau-frère d’Orgon.]
+[Tartuffe, faux dévot.]
+[Dorine, suivante de Mariane.]
+[M. Loyal, sergent.]
+[Un Exempt.]
+[Flipote, servante de madame Pernelle.]
+[La scène est à Paris dans la maison d’Orgon.]
 Sommaire
 
 
 ACTE I
 
 Scène 1
-Madame Pernelle, Elmire, Cléante, Damis, Dorine, Flipote.
+[Madame Pernelle, Elmire, Cléante, Damis, Dorine, Flipote.]
 
 
-Madame Pernelle
+[Madame Pernelle]
 Allons, Flipote, allons ; que d’eux je me délivre.
 
 
-Elmire
+[Elmire]
 Vous marchez d’un tel pas, qu’on a peine à vous suivre.
 
 
-Madame Pernelle
+[Madame Pernelle]
 Laissez, ma bru, laissez ; ne venez pas plus loin ;
 
 Ce sont toutes façons dont je n’ai pas besoin.
 
-Elmire
+[Elmire]
 De ce que l’on vous doit envers vous on s’acquitte.
 
 Mais, ma mère, d’où vient que vous sortez si vite ?
 
-Madame Pernelle
+[Madame Pernelle]
 C’est que je ne puis voir tout ce ménage-ci,
 
 Et que de me complaire on ne prend nul souci.
 Oui, je sors de chez vous fort mal édifiée :
 Dans toutes mes leçons j’y suis contrariée ;
 On n’y respecte rien, chacun y parle haut,
-Et c’est tout justement la cour du roi Pétaud[11].
+Et c’est tout justement la cour du roi Pétaud.
 
-Dorine
+[Dorine]
 Si…
 
 
-Madame Pernelle
+[Madame Pernelle]
 Vous êtes, ma mie, une fille suivante,
 
 Un peu trop forte en gueule, et fort impertinente ;
 Vous vous mêlez sur tout de dire votre avis.
 
-Damis
+[Damis]
 Mais…
 
 
-Madame Pernelle
+[Madame Pernelle]
 Vous êtes un sot en trois lettres, mon fils ;
 
 C’est moi qui vous le dis, qui suis votre grand’mère ;
@@ -72,22 +72,22 @@ Et j’ai prédit cent fois à mon fils, votre père,
 Que vous preniez tout l’air d’un méchant garnement,
 Et ne lui donneriez jamais que du tourment.
 
-Mariane
+[Mariane]
 Je crois…
 
 
-Madame Pernelle
+[Madame Pernelle]
 Mon Dieu ! sa sœur, vous faites la discrète,
 
 Et vous n’y touchez pas, tant vous semblez doucette ;
 Mais il n’est, comme on dit, pire eau que l’eau qui dort,
-Et vous menez sous chape[12] un train que je hais fort.
+Et vous menez sous chape un train que je hais fort.
 
-Elmire
+[Elmire]
 Mais, ma mère…
 
 
-Madame Pernelle
+[Madame Pernelle]
 Ma bru, qu’il ne vous en déplaise,
 
 Votre conduite, en tout, est tout à fait mauvaise ;
@@ -98,11 +98,11 @@ Que vous alliez vêtue ainsi qu’une princesse.
 Quiconque à son mari veut plaire seulement,
 Ma bru, n’a pas besoin de tant d’ajustement.
 
-Cléante
+[Cléante]
 Mais, madame, après tout…
 
 
-Madame Pernelle
+[Madame Pernelle]
 Pour vous, monsieur son frère,
 
 Je vous estime fort, vous aime, et vous révère ;
@@ -111,39 +111,39 @@ Je vous prierais bien fort de n’entrer point chez nous.
 Sans cesse vous prêchez des maximes de vivre
 Qui par d’honnêtes gens ne se doivent point suivre.
 Je vous parle un peu franc ; mais c’est là mon humeur,
-Et je ne mâche point ce que j’ai sur le cœur[13].
+Et je ne mâche point ce que j’ai sur le cœur.
 
 
-Damis
+[Damis]
 Votre Monsieur Tartuffe est bien heureux, sans doute…
 
 
-Madame Pernelle
+[Madame Pernelle]
 C’est un homme de bien qu’il faut que l’on écoute ;
 
 Et je ne puis souffrir sans me mettre en courroux,
-De le voir querellé par un fou comme vous[14].
+De le voir querellé par un fou comme vous.
 
-Damis
+[Damis]
 Quoi ! je souffrirai, moi, qu’un cagot de critique
 
 Vienne usurper céans un pouvoir tyrannique ;
 Et que nous ne puissions à rien nous divertir,
 Si ce beau monsieur-là n’y daigne consentir ?
 
-Dorine
+[Dorine]
 S’il le faut écouter, et croire à ses maximes,
 
 On ne peut faire rien, qu’on ne fasse des crimes ;
 Car il contrôle tout, ce critique zélé.
 
-Madame Pernelle
+[Madame Pernelle]
 Et tout ce qu’il contrôle est fort bien contrôlé.
 
 C’est au chemin du ciel qu’il prétend vous conduire :
 Et mon fils à l’aimer vous devrait tous induire.
 
-Damis
+[Damis]
 Non, voyez-vous, ma mère, il n’est père ni rien,
 
 Qui me puisse obliger à lui vouloir du bien :
@@ -152,7 +152,7 @@ Sur ses façons de faire à tous coups je m’emporte :
 J’en prévois une suite, et qu’avec ce pied-plat
 Il faudra que j’en vienne à quelque grand éclat.
 
-Dorine
+[Dorine]
 Certes, c’est une chose aussi qui scandalise
 
 De voir qu’un inconnu céans s’impatronise ;
@@ -161,27 +161,27 @@ Et dont l’habit entier valait bien six deniers,
 En vienne jusque-là que de se méconnaître,
 De contrarier tout, et de faire le maître.
 
-Madame Pernelle
+[Madame Pernelle]
 Eh ! merci de ma vie, il en irait bien mieux
 
 Si tout se gouvernait par ses ordres pieux.
 
-Dorine
+[Dorine]
 Il passe pour un saint dans votre fantaisie :
 
 Tout son fait, croyez-moi, n’est rien qu’hypocrisie.
 
 
-Madame Pernelle
+[Madame Pernelle]
 Voyez la langue !
 
 
-Dorine
+[Dorine]
 À lui, non plus qu’à son Laurent,
 
 Je ne me fierais, moi, que sur un bon garant.
 
-Madame Pernelle
+[Madame Pernelle]
 J’ignore ce qu’au fond le serviteur peut être ;
 
 Mais pour homme de bien je garantis le maître.
@@ -190,7 +190,7 @@ Qu’à cause qu’il vous dit à tous vos vérités.
 C’est contre le péché que son cœur se courrouce
 Et l’intérêt du ciel est tout ce qui le pousse.
 
-Dorine
+[Dorine]
 Oui ; mais pourquoi, surtout depuis un certain temps,
 
 Ne saurait-il souffrir qu’aucun hante céans ?
@@ -198,9 +198,9 @@ En quoi blesse le ciel une visite honnête,
 Pour en faire un vacarme à nous rompre la tête ?
 Veut-on que là-dessus je m’explique entre nous ?…
 (Montrant Elmire.)
-Je crois que de madame il est, ma foi, jaloux[15].
+Je crois que de madame il est, ma foi, jaloux.
 
-Madame Pernelle
+[Madame Pernelle]
 Taisez-vous, et songez aux choses que vous dites.
 
 Ce n’est pas lui tout seul qui blâme ces visites :
@@ -211,7 +211,7 @@ Font un éclat fâcheux dans tout le voisinage.
 Je veux croire qu’au fond il ne se passe rien ;
 Mais enfin on en parle, et cela n’est pas bien.
 
-Cléante
+[Cléante]
 Hé ! voulez-vous, madame, empêcher qu’on ne cause ?
 
 Ce serait dans la vie une fâcheuse chose,
@@ -225,7 +225,7 @@ Contre la médisance il n’est point de rempart.
 Efforçons-nous de vivre avec toute innocence,
 Et laissons aux causeurs une pleine licence.
 
-Dorine
+[Dorine]
 Daphné, notre voisine, et son petit époux,
 
 Ne seraient-ils point ceux qui parlent mal de nous ?
@@ -240,16 +240,16 @@ Ils pensent dans le monde autoriser les leurs,
 Et, sous le faux espoir de quelque ressemblance,
 Aux intrigues qu’ils ont donner de l’innocence,
 Ou faire ailleurs tomber quelques traits partagés
-De ce blâme public dont ils sont trop chargés[16].
+De ce blâme public dont ils sont trop chargés.
 
-Madame Pernelle
+[Madame Pernelle]
 Tous ces raisonnements ne font rien à l’affaire.
 
 On sait qu’Orante mène une vie exemplaire ;
 Tous ses soins vont au ciel ; et j’ai su, par des gens,
 Qu’elle condamne fort le train qui vient céans.
 
-Dorine
+[Dorine]
 L’exemple est admirable, et cette dame est bonne !
 
 Il est vrai qu’elle vit en austère personne ;
@@ -267,11 +267,11 @@ Dans un tel abandon, leur sombre inquiétude
 
 Ne voit d’autre recours que le métier de prude ;
 Et la sévérité de ces femmes de bien
-Censure toute chose, et ne pardonne à rien[17].
+Censure toute chose, et ne pardonne à rien.
 Hautement d’un chacun elles blâment la vie,
 Non point par charité, mais par un trait d’envie,
 Qui ne saurait souffrir qu’une autre ait les plaisirs
-Dont le penchant de l’âge a sevré leurs désirs[18].
+Dont le penchant de l’âge a sevré leurs désirs.
 
 Madame Pernelle, à Elmire.
 Voilà les contes bleus qu’il vous faut pour vous plaire,
@@ -295,8 +295,8 @@ Enfin les gens sensés ont leurs têtes troublées
 De la confusion de telles assemblées :
 Mille caquets divers s’y font en moins de rien ;
 Et, comme l’autre jour un docteur dit fort bien,
-C’est véritablement la tour de Babylone[19],
-Car chacun y babille, et tout du long de l’aune[20] ;
+C’est véritablement la tour de Babylone,
+Car chacun y babille, et tout du long de l’aune ;
 
 Et, pour conter l’histoire où ce point l’engagea…
 (Montrant Cléante.)
@@ -309,39 +309,39 @@ Et qu’il fera beau temps quand j’y mettrai le pied.
 (Donnant un soufflet à Flipote.)
 Allons, vous, vous rêvez et bayez aux corneilles.
 Jour de Dieu ! je saurai vous frotter les oreilles.
-Marchons, gaupe, marchons[21].
+Marchons, gaupe, marchons.
 
 
 
 Scène 2
-Cléante, Dorine.
+[Cléante, Dorine.]
 
 
-Cléante
+[Cléante]
 Je n’y veux point aller,
 
 De peur qu’elle ne vînt encor me quereller,
 Que cette bonne femme…
 
-Dorine
+[Dorine]
 Ah ! certes, c’est dommage
 
 Qu’elle ne vous ouît tenir un tel langage :
 Elle vous dirait bien qu’elle vous trouve bon,
 Et qu’elle n’est point d’âge à lui donner ce nom !
 
-Cléante
+[Cléante]
 Comme elle s’est pour rien contre nous échauffée !
 
 Et que de son Tartuffe elle paraît coiffée !
 
-Dorine
+[Dorine]
 Oh ! vraiment, tout cela n’est rien au prix du fils :
 
 Et, si vous l’aviez vu, vous diriez : C’est bien pis !
 Nos troubles l’avaient mis sur le pied d’homme sage,
 
-Et, pour servir son prince, il montra du courage[22].
+Et, pour servir son prince, il montra du courage.
 Mais il est devenu comme un homme hébété
 Depuis que de Tartuffe on le voit entêté ;
 Il l’appelle son frère et l’aime dans son âme
@@ -353,7 +353,7 @@ On ne saurait, je pense, avoir plus de tendresse :
 À table, au plus haut bout il veut qu’il soit assis ;
 Avec joie il l’y voit manger autant que six ;
 Les bons morceaux de tout, il faut qu’on les lui cède ;
-Et, s’il vient à roter, il lui dit : Dieu vous aide[23].
+Et, s’il vient à roter, il lui dit : Dieu vous aide.
 Enfin il en est fou ; c’est son tout, son héros ;
 Il l’admire à tous coups, le cite à tout propos ;
 Ses moindres actions lui semblent des miracles,
@@ -375,17 +375,17 @@ Avec la sainteté les parures du diable.
 
 
 Scène 3
-Elmire, Mariane, Damis, Cléante, Dorine.
+[Elmire, Mariane, Damis, Cléante, Dorine.]
 
 
-Elmire, à Cléante.
+[Elmire, à Cléante.]
 Vous êtes bien heureux de n’être point venu
 
 Au discours qu’à la porte elle nous a tenu.
 Mais j’ai vu mon mari ; comme il ne m’a point vue,
 Je veux aller là-haut attendre sa venue.
 
-Cléante
+[Cléante]
 Moi, je l’attends ici pour moins d’amusement ;
 
 Et je vais lui donner le bonjour seulement.
@@ -393,10 +393,10 @@ Et je vais lui donner le bonjour seulement.
 
 
 Scène 4
-Cléante, Damis, Dorine.
+[Cléante, Damis, Dorine.]
 
 
-Damis
+[Damis]
 De l’hymen de ma sœur touchez-lui quelque chose :
 
 J’ai soupçon que Tartuffe à son effet s’oppose,
@@ -406,25 +406,25 @@ Si même ardeur enflamme et ma sœur et Valère,
 La sœur de cet ami, vous le savez, m’est chère ;
 Et s’il fallait…
 
-Dorine
+[Dorine]
 Il entre.
 
 
 
 Scène 5
-Orgon, Cléante, Dorine.
+[Orgon, Cléante, Dorine.]
 
 
-Orgon
+[Orgon]
 Ah ! mon frère, bonjour.
 
 
-Cléante
+[Cléante]
 Je sortais, et j’ai joie à vous voir de retour.
 
 La campagne à présent n’est pas beaucoup fleurie.
 
-Orgon
+[Orgon]
 Dorine… (À Cléante.) Mon beau-frère, attendez, je vous prie.
 
 Vous voulez bien souffrir, pour m’ôter de souci,
@@ -433,88 +433,88 @@ Que je m’informe un peu des nouvelles d’ici.
 Tout s’est-il, ces deux jours, passé de bonne sorte ?
 Qu’est-ce qu’on fait céans ? comme est-ce qu’on s’y porte ?
 
-Dorine
+[Dorine]
 Madame eut avant-hier la fièvre jusqu’au soir,
 
 Avec un mal de tête étrange à concevoir.
 
-Orgon
+[Orgon]
 Et Tartuffe ?
 
 
-Dorine
+[Dorine]
 Tartuffe ! Il se porte à merveille,
 
 Gros et gras, le teint frais, et la bouche vermeille.
 
-Orgon
-Le pauvre homme[24] !
+[Orgon]
+Le pauvre homme !
 
 
-Dorine
+[Dorine]
 Le soir elle eut un grand dégoût,
 
 Et ne put, au souper, toucher à rien du tout,
 Tant sa douleur de tête était encor cruelle !
 
-Orgon
+[Orgon]
 Et Tartuffe ?
 
 
-Dorine
+[Dorine]
 Il soupa, lui tout seul, devant elle ;
 
 Et fort dévotement il mangea deux perdrix,
 Avec une moitié de gigot en hachis.
 
-Orgon
+[Orgon]
 Le pauvre homme !
 
 
-Dorine
+[Dorine]
 La nuit se passa tout entière
 
 Sans qu’elle pût fermer un moment la paupière ;
 Des chaleurs l’empêchaient de pouvoir sommeiller,
 Et jusqu’au jour, près d’elle, il nous fallut veiller.
 
-Orgon
+[Orgon]
 Et Tartuffe ?
 
 
-Dorine
+[Dorine]
 Pressé d’un sommeil agréable,
 
 Il passa dans sa chambre au sortir de la table ;
 Et dans son lit bien chaud il se mit tout soudain,
 Où, sans trouble, il dormit jusques au lendemain.
 
-Orgon
+[Orgon]
 Le pauvre homme !
 
 
-Dorine
+[Dorine]
 À la fin, par nos raisons gagnée,
 
 Elle se résolut à souffrir la saignée ;
 Et le soulagement suivit tout aussitôt.
 
-Orgon
+[Orgon]
 Et Tartuffe ?
 
 
-Dorine
+[Dorine]
 Il reprit courage comme il faut ;
 
 Et, contre tous les maux fortifiant son âme,
 Pour réparer le sang qu’avait perdu madame,
 But, à son déjeuner, quatre grands coups de vin.
 
-Orgon
+[Orgon]
 Le pauvre homme !
 
 
-Dorine
+[Dorine]
 Tous deux se portent bien enfin ;
 
 Et je vais à madame annoncer, par avance,
@@ -523,10 +523,10 @@ La part que vous prenez à sa convalescence.
 
 
 Scène 6
-Orgon, Cléante.
+[Orgon, Cléante.]
 
 
-Cléante[25]
+[Cléante]
 À votre nez, mon frère, elle se rit de vous :
 
 Et, sans avoir dessein de vous mettre en courroux,
@@ -537,17 +537,17 @@ Et se peut-il qu’un homme ait un charme aujourd’hui
 Qu’après avoir chez vous réparé sa misère,
 Vous en veniez au point… ?
 
-Orgon
+[Orgon]
 Halte-là, mon beau-frère,
 
 Vous ne connaissez pas celui dont vous parlez.
 
-Cléante
+[Cléante]
 Je ne le connais pas, puisque vous le voulez ;
 
 Mais enfin, pour savoir quel homme ce peut être…
 
-Orgon
+[Orgon]
 Mon frère, vous seriez charmé de le connaître ;
 
 Et vos ravissements ne prendraient point de fin.
@@ -560,11 +560,11 @@ De toutes amitiés il détache mon âme ;
 Et je verrais mourir frère, enfants, mère et femme,
 Que je m’en soucierais autant que de cela.
 
-Cléante
+[Cléante]
 Les sentiments humains, mon frère, que voilà !
 
 
-Orgon
+[Orgon]
 Ah ! si vous aviez vu comme j’en fis rencontre,
 
 Vous auriez pris pour lui l’amitié que je montre.
@@ -598,24 +598,24 @@ Jusque-là qu’il se vint l’autre jour accuser
 D’avoir pris une puce en faisant sa prière,
 Et de l’avoir tuée avec trop de colère.
 
-Cléante
+[Cléante]
 Parbleu, vous êtes fou, mon frère, que je croi.
 
 Avec de tels discours, vous moquez-vous de moi ?
 Et que prétendez-vous ? Que tout ce badinage…
 
-Orgon
+[Orgon]
 Mon frère, ce discours sent le libertinage :
 
 Vous en êtes un peu dans votre âme entiché ;
 Et, comme je vous l’ai plus de dix fois prêché,
 Vous vous attirerez quelque méchante affaire.
 
-Cléante
+[Cléante]
 Voilà de vos pareils le discours ordinaire :
 
 Ils veulent que chacun soit aveugle comme eux.
-C’est être libertin[26] que d’avoir de bons yeux ;
+C’est être libertin que d’avoir de bons yeux ;
 Et qui n’adore pas de vaines simagrées,
 N’a ni respect ni foi pour les choses sacrées.
 Allez, tous vos discours ne me font point de peur ;
@@ -643,7 +643,7 @@ Et la plus noble chose, ils la gâtent souvent
 Pour la vouloir outrer et pousser trop avant.
 Que cela vous soit dit en passant, mon beau-frère.
 
-Orgon
+[Orgon]
 Oui, vous êtes, sans doute, un docteur qu’on révère,
 
 Tout le savoir du monde est chez vous retiré ;
@@ -651,7 +651,7 @@ Vous êtes le seul sage et le seul éclairé,
 Un oracle, un Caton, dans le siècle où nous sommes ;
 Et près de vous ce sont des sots que tous les hommes.
 
-Cléante
+[Cléante]
 Je ne suis point, mon frère, un docteur révéré,
 
 Et le savoir chez moi n’est pas tout retiré.
@@ -663,7 +663,7 @@ Aucune chose au monde et plus noble, et plus belle,
 Que la sainte ferveur d’un véritable zèle ;
 Aussi ne vois-je rien qui soit plus odieux
 Que le dehors plâtré d’un zèle spécieux,
-Que ces francs charlatans, que ces dévots de place[27],
+Que ces francs charlatans, que ces dévots de place,
 
 De qui la sacrilège et trompeuse grimace
 Abuse impunément, et se joue, à leur gré,
@@ -713,104 +713,104 @@ Votre homme, à dire vrai, n’est pas de ce modèle :
 C’est de fort bonne foi que vous vantez son zèle ;
 Mais par un faux éclat je vous crois ébloui.
 
-Orgon
+[Orgon]
 Monsieur mon cher beau-frère, avez-vous tout dit ?
 
 
-Cléante
+[Cléante]
 Oui.
 
 
-Orgon, s’en allant.
+[Orgon, s’en allant.]
 Je suis votre valet.
 
 
-Cléante
+[Cléante]
 De grâce, un mot, mon frère.
 
 Laissons là ce discours. Vous savez que Valère,
 Pour être votre gendre, a parole de vous.
 
-Orgon
+[Orgon]
 Oui.
 
 
-Cléante
+[Cléante]
 Vous aviez pris jour pour un lien si doux.
 
 
-Orgon
+[Orgon]
 Il est vrai.
 
 
-Cléante
+[Cléante]
 Pourquoi donc en différer la fête ?
 
 
-Orgon
+[Orgon]
 Je ne sais.
 
 
-Cléante
+[Cléante]
 Auriez-vous autre pensée en tête ?
 
 
-Orgon
+[Orgon]
 Peut-être.
 
 
-Cléant
+[Cléante]
 Vous voulez manquer à votre foi ?
 
 
-Orgon
+[Orgon]
 Je ne dis pas cela.
 
 
-Cléante
+[Cléante]
 Nul obstacle, je croi,
 
 Ne vous peut empêcher d’accomplir vos promesses.
 
-Orgon
+[Orgon]
 Selon.
-Cléante
+[Cléante]
 Pour dire un mot faut-il tant de finesses ?
 
 Valère, sur ce point, me fait vous visiter.
 
-Orgon
+[Orgon]
 Le ciel en soit loué !
 
 
-Cléante
+[Cléante]
 Mais que lui reporter ?
 
 
-Orgon
+[Orgon]
 Tout ce qu’il vous plaira.
 
 
-Cléante
+[Cléante]
 Mais il est nécessaire
 
 De savoir vos desseins. Quels sont-ils donc ?
 
-Orgon
+[Orgon]
 De faire
 
 Ce que le ciel voudra.
 
-Cléante
+[Cléante]
 Mais parlons tout de bon.
 
 Valère a votre foi ; la tiendrez-vous, ou non ?
 
-Orgon
+[Orgon]
 Adieu.
 
 
-Cléante, seul.
+[Cléante, seul.]
 Pour son amour je crains une disgrâce,
 
 Et je dois l’avertir de tout ce qui se passe.
@@ -820,28 +820,28 @@ Fin du premier acte.
 ACTE II
 
 Scène 1
-Orgon, Mariane.
+[Orgon, Mariane.]
 
 
-Orgon
+[Orgon]
 Mariane !
 
 
-Mariane
+[Mariane]
 Mon père ?
 
 
-Orgon
+[Orgon]
 Approchez. J’ai de quoi
 
 Vous parler en secret.
 
 
-Mariane, à Orgon, qui regarde dans un petit cabinet.
+[Mariane, à Orgon, qui regarde dans un petit cabinet.]
 Que cherchez-vous ?
 
 
-Orgon
+[Orgon]
 Je voi
 
 Si quelqu’un n’est point là qui pourrait nous entendre,
@@ -850,41 +850,41 @@ Or sus, nous voilà bien. J’ai, Mariane, en vous
 Reconnu de tout temps un esprit assez doux,
 Et de tout temps aussi vous m’avez été chère.
 
-Mariane
+[Mariane]
 Je suis fort redevable à cet amour de père.
 
 
-Orgon
+[Orgon]
 C’est fort bien dit, ma fille ; et, pour le mériter,
 
 Vous devez n’avoir soin que de me contenter.
 
-Mariane
+[Mariane]
 C’est où je mets aussi ma gloire la plus haute.
 
 
-Orgon
+[Orgon]
 Fort bien. Que dites-vous de Tartuffe notre hôte ?
 
 
-Mariane
+[Mariane]
 Qui, moi ?
 
 
-Orgon
+[Orgon]
 Vous. Voyez bien comme vous répondrez.
 
 
-Mariane
+[Mariane]
 Hélas ! j’en dirai, moi, tout ce que vous voudrez.
 
 
 
 Scène 2
-Orgon, Mariane, Dorine, entrant doucement et se tenant derrière Orgon, sans être vue.
+[Orgon, Mariane, Dorine, entrant doucement et se tenant derrière Orgon, sans être vue.]
 
 
-Orgon
+[Orgon]
 C’est parler sagement… Dites-moi donc, ma fille,
 
 Qu’en toute sa personne un haut mérite brille,
@@ -894,55 +894,55 @@ Hé ?
 
 (Mariane se recule avec surprise.)
 
-Mariane
+[Mariane]
 Hé ?
 
 
-Orgon
+[Orgon]
 Qu’est-ce ?
 
 
-Mariane
+[Mariane]
 Plaît-il ?
 
 
-Orgon
+[Orgon]
 Quoi ?
 
 
-Mariane
+[Mariane]
 Me suis-je méprise ?
 
 
-Orgon
+[Orgon]
 Comment ?
 
 
-Mariane
+[Mariane]
 Qui voulez-vous, mon père, que je dise
 
 Qui me touche le cœur, et qu’il me serait doux
 De voir, par votre choix, devenir mon époux ?
 
-Orgon
+[Orgon]
 Tartuffe.
 
 
-Mariane
+[Mariane]
 Il n’en est rien, mon père, je vous jure.
 
 Pourquoi me faire dire une telle imposture ?
 
-Orgon
+[Orgon]
 Mais je veux que cela soit une vérité ;
 
 Et c’est assez pour vous que je l’aie arrêté.
 
-Mariane
+[Mariane]
 Quoi ! vous voulez, mon père ?…
 
 
-Orgon
+[Orgon]
 Oui, je prétends, ma fille,
 
 Unir, par votre hymen, Tartuffe à ma famille.
@@ -952,74 +952,74 @@ Et comme sur vos vœux je… Que faites-vous là ?
 La curiosité qui vous presse est bien forte,
 Ma mie, à nous venir écouter de la sorte.
 
-Dorine
+[Dorine]
 Vraiment, je ne sais pas si c’est un bruit qui part
 
 De quelque conjecture ou d’un coup de hasard ;
 Mais de ce mariage on m’a dit la nouvelle,
 Et j’ai traité cela de pure bagatelle.
 
-Orgon
+[Orgon]
 Quoi donc ! la chose est-elle incroyable ?
 
 
-Dorine
+[Dorine]
 À tel point
 
 Que vous-même, monsieur, je ne vous en crois point.
 
-Orgon
+[Orgon]
 Je sais bien le moyen de vous le faire croire.
 
 
-Dorine
+[Dorine]
 Oui ! oui ! vous nous contez une plaisante histoire !
 
 
-Orgon
+[Orgon]
 Je conte justement ce qu’on verra dans peu.
 
 
-Dorine
+[Dorine]
 Chansons !
 
 
-Orgon
+[Orgon]
 Ce que je dis, ma fille, n’est point jeu.
 
 
-Dorine
+[Dorine]
 Allez, ne croyez point à monsieur votre père ;
 
 Il raille.
 
-Orgon
+[Orgon]
 Je vous dis…
 
 
-Dorine
+[Dorine]
 Non, vous avez beau faire,
 
 On ne vous croira point.
 
-Orgon
+[Orgon]
 À la fin, mon courroux…
 
 
-Dorine
+[Dorine]
 Hé bien ! on vous croit donc ; et c’est tant pis pour vous.
 
 Quoi ! se peut-il, monsieur, qu’avec l’air d’homme sage,
 Et cette large barbe au milieu du visage,
 Vous soyez assez fou pour vouloir… ?
 
-Orgon
+[Orgon]
 Écoutez :
 
 Vous avez pris céans certaines privautés
 Qui ne me plaisent point ; je vous le dis, ma mie.
 
-Dorine
+[Dorine]
 Parlons sans nous fâcher, monsieur, je vous supplie.
 
 Vous moquez-vous des gens d’avoir fait ce complot ?
@@ -1029,7 +1029,7 @@ Et puis, que vous apporte une telle alliance ?
 À quel sujet aller, avec tout votre bien,
 Choisir un gendre gueux ?…
 
-Orgon
+[Orgon]
 Taisez-vous. S’il n’a rien,
 
 Sachez que c’est par là qu’il faut qu’on le révère.
@@ -1044,7 +1044,7 @@ De sortir d’embarras, et rentrer dans ses biens :
 Ce sont fiefs qu’à bon titre au pays on renomme ;
 Et, tel que l’on le voit, il est bien gentilhomme.
 
-Dorine
+[Dorine]
 Oui, c’est lui qui le dit ; et cette vanité,
 
 Monsieur, ne sied pas bien avec la piété.
@@ -1070,15 +1070,15 @@ Et qui donne à sa fille un homme qu’elle hait,
 Est responsable au ciel des fautes qu’elle fait.
 Songez à quels périls votre dessein vous livre.
 
-Orgon
+[Orgon]
 Je vous dis qu’il me faut apprendre d’elle à vivre !
 
 
-Dorine
+[Dorine]
 Vous n’en feriez que mieux de suivre mes leçons.
 
 
-Orgon
+[Orgon]
 Ne nous amusons point, ma fille, à ces chansons ;
 
 Je sais ce qu’il vous faut, et je suis votre père.
@@ -1088,12 +1088,12 @@ Je le soupçonne encor d’être un peu libertin ;
 Je ne remarque point qu’il hante les églises.
 
 
-Dorine
+[Dorine]
 Voulez-vous qu’il y coure à vos heures précises,
 
 Comme ceux qui n’y vont que pour être aperçus ?
 
-Orgon
+[Orgon]
 Je ne demande pas votre avis là-dessus.
 
 Enfin, avec le ciel l’autre est le mieux du monde,
@@ -1105,107 +1105,107 @@ Comme deux vrais enfants, comme deux tourterelles :
 À nul fâcheux débat jamais vous n’en viendrez ;
 Et vous ferez de lui tout ce que vous voudrez.
 
-Dorine
-Elle ? elle n’en fera qu’un sot, je vous assure[28].
+[Dorine]
+Elle ? elle n’en fera qu’un sot, je vous assure.
 
 
-Orgon
+[Orgon]
 Ouais ! quels discours !
 
 
-Dorine
+[Dorine]
 Je dis qu’il en a l’encolure
 
 Et que son ascendant, monsieur, l’emportera
 Sur toute la vertu que votre fille aura.
 
-Orgon
+[Orgon]
 Cessez de m’interrompre, et songez à vous taire,
 
 Sans mettre votre nez où vous n’avez que faire.
 
-Dorine, elle l’interrompt toujours au moment où il se retourne pour parler à sa fille.
+[Dorine, elle l’interrompt toujours au moment où il se retourne pour parler à sa fille.]
 Je n’en parle, monsieur, que pour votre intérêt.
 
 
-Orgon
+[Orgon]
 C’est prendre trop de soin ; taisez-vous, s’il vous plaît.
 
 
-Dorine
+[Dorine]
 Si l’on ne vous aimait…
 
 
-Orgon
+[Orgon]
 Je ne veux pas qu’on m’aime.
 
 
-Dorine
+[Dorine]
 Et je veux vous aimer, monsieur, malgré vous-même.
 
 
-Orgon
+[Orgon]
 Ah !
 
 
-Dorine
+[Dorine]
 Votre honneur m’est cher, et je ne puis souffrir
 
 Qu’aux brocards d’un chacun vous alliez vous offrir.
 
-Orgon
+[Orgon]
 Vous ne vous tairez point ?
 
 
-Dorine
-C’est une conscience[29]
+[Dorine]
+C’est une conscience
 
 Que de vous laisser faire une telle alliance.
 
-Orgon
+[Orgon]
 Te tairas-tu, serpent, dont les traits effrontés… ?
 
 
-Dorine
+[Dorine]
 Ah ! vous êtes dévot, et vous vous emportez ?
 
 
-Orgon
+[Orgon]
 Oui, ma bile s’échauffe à toutes ces fadaises,
 
 Et tout résolument je veux que tu te taises.
 
-Dorine
+[Dorine]
 Soit. Mais, ne disant mot, je n’en pense pas moins.
 
 
-Orgon
+[Orgon]
 Pense, si tu le veux ; mais applique tes soins.
 
 (Se retournant vers sa fille.)
 À ne m’en point parler, ou… Suffit. Comme sage,
 J’ai pesé mûrement toutes choses.
 
-Dorine, à part.
+[Dorine, à part.]
 J’enrage
 
 De ne pouvoir parler.
 
-Orgon
+[Orgon]
 Sans être damoiseau,
 
 Tartuffe est fait de sorte…
 
-Dorine
+[Dorine]
 Oui, c’est un beau museau !
 
 
-Orgon
+[Orgon]
 Que, quand tu n’aurais même aucune sympathie
 
 Pour tous les autres dons…
 
-Dorine, à part.
+[Dorine, à part.]
 La voilà bien lotie !
 
 (Orgon se retourne du côté de Dorine, et, les bras croisés, l’écoute et la regarde en face.)
@@ -1215,23 +1215,23 @@ Ne m’épouserait pas de force impunément ;
 Et je lui ferais voir, bientôt après la fête,
 Qu’une femme a toujours une vengeance prête.
 
-Orgon, à Dorine.
+[Orgon, à Dorine.]
 Donc de ce que je dis on ne fera nul cas ?
 
 
-Dorine
+[Dorine]
 De quoi vous plaignez-vous ? Je ne vous parle pas.
 
 
-Orgon
+[Orgon]
 Qu’est-ce que tu fais donc ?
 
 
-Dorine
+[Dorine]
 Je me parle à moi-même.
 
 
-Orgon, à part.
+[Orgon, à part.]
 Fort bien. Pour châtier son insolence extrême,
 
 Il faut que je lui donne un revers de ma main.
@@ -1241,36 +1241,36 @@ Croire que le mari… que j’ai su vous élire…
 (À Dorine)
 Que ne te parles-tu ?
 
-Dorine
+[Dorine]
 Je n’ai rien à me dire.
 
 
-Orgon
+[Orgon]
 Encore un petit mot.
 
 
-Dorine
+[Dorine]
 Il ne me plaît pas, moi.
 
 
-Orgon
+[Orgon]
 Certes, je t’y guettais.
 
 
-Dorine
+[Dorine]
 Quelque sotte, ma foi !…
 
 
-Orgon
+[Orgon]
 Enfin, ma fille, il faut payer d’obéissance ;
 
 Et montrer pour mon choix entière déférence.
 
-Dorine, en s’enfuyant.
-Je me moquerais fort de prendre un tel époux[30].
+[Dorine, en s’enfuyant.]
+Je me moquerais fort de prendre un tel époux.
 
 
-Orgon, après avoir manqué de donner un souffler à Dorine.
+[Orgon, après avoir manqué de donner un souffler à Dorine.]
 Vous avez là, ma fille, une peste avec vous,
 
 Avec qui, sans péché, je ne saurais plus vivre.
@@ -1282,29 +1282,29 @@ Et je vais prendre l’air pour me rasseoir un peu.
 
 
 Scène 3
-Dorine, Mariane.
+[Dorine, Mariane.]
 
 
-Dorine
+[Dorine]
 Avez-vous donc perdu, dites-moi, la parole ?
 
 Et faut-il qu’en ceci je fasse votre rôle ?
 Souffrir qu’on vous propose un projet insensé,
 Sans que du moindre mot vous l’ayez repoussé !
 
-Mariane
+[Mariane]
 Contre un père absolu que veux-tu que je fasse ?
 
 
-Dorine
+[Dorine]
 Ce qu’il faut pour parer une telle menace.
 
 
-Mariane
+[Mariane]
 Quoi ?
 
 
-Dorine
+[Dorine]
 Lui dire qu’un cœur n’aime point par autrui ;
 
 Que vous vous mariez pour vous, non pas pour lui ;
@@ -1313,104 +1313,105 @@ C’est à vous, non à lui, que le mari doit plaire,
 Et que, si son Tartuffe est pour lui si charmant,
 Il le peut épouser sans nul empêchement.
 
-Mariane
+[Mariane]
 Un père, je l’avoue, a sur nous tant d’empire,
 
 Que je n’ai jamais eu la force de rien dire.
 
-Dorine
+[Dorine]
 Mais raisonnons. Valère a fait pour vous des pas :
 
 L’aimez-vous, je vous prie, ou ne l’aimez-vous pas ?
 
-Mariane
+[Mariane]
 Ah ! qu’envers mon amour ton injustice est grande,
 
 Dorine ! me dois-tu faire cette demande ?
 T’ai-je pas là-dessus ouvert cent fois mon cœur ?
 Et sais-tu pas pour lui jusqu’où va mon ardeur ?
-Dorine
+
+[Dorine]
 Que sais-je si le cœur a parlé par la bouche,
 
 Et si c’est tout de bon que cet amant vous touche ?
 
-Mariane
+[Mariane]
 Tu me fais un grand tort, Dorine, d’en douter ;
 
 Et mes vrais sentiments ont su trop éclater.
 
-Dorine
+[Dorine]
 Enfin, vous l’aimez donc ?
 
 
-Mariane
+[Mariane]
 Oui, d’une ardeur extrême.
 
 
-Dorine
+[Dorine]
 Et, selon l’apparence, il vous aime de même ?
 
 
-Mariane
+[Mariane]
 Je le crois.
 
 
-Dorine
+[Dorine]
 Et tous deux brûlez également
 
 De vous voir mariés ensemble ?
 
-Mariane
+[Mariane]
 Assurément.
 
 
-Dorine
+[Dorine]
 Sur cette autre union quelle est donc votre attente ?
 
 
-Mariane
+[Mariane]
 De me donner la mort, si l’on me violente.
 
 
-Dorine
+[Dorine]
 Fort bien. C’est un recours où je ne songeais pas ;
 
 Vous n’avez qu’à mourir pour sortir d’embarras.
 Le remède, sans doute est merveilleux. J’enrage,
 Lorsque j’entends tenir ces sortes de langage.
 
-Mariane
+[Mariane]
 Mon Dieu ! de quelle humeur, Dorine, tu te rends !
 
 Tu ne compatis point aux déplaisirs des gens.
 
-Dorine
+[Dorine]
 Je ne compatis point à qui dit des sornettes,
 
 Et dans l’occasion mollit comme vous faites.
 
-Mariane
+[Mariane]
 Mais que veux-tu ? si j’ai de la timidité…
 
 
-Dorine
+[Dorine]
 Mais l’amour dans un cœur veut de la fermeté.
 
 
-Mariane
+[Mariane]
 Mais n’en gardé-je pas pour les feux de Valère ?
 
 Et n’est-ce pas à lui de m’obtenir d’un père ?
 
 
-Dorine
+[Dorine]
 Mais quoi ! si votre père est un bourru fieffé,
 
 Qui s’est de son Tartuffe entièrement coiffé
 Et manque à l’union qu’il avait arrêtée,
 La faute à votre amant doit-elle être imputée ?
 
-Mariane
+[Mariane]
 Mais, par un haut refus, et d’éclatants mépris,
 
 Ferai-je, dans mon choix, voir un cœur trop épris ?
@@ -1418,7 +1419,7 @@ Sortirai-je pour lui, quelque éclat dont il brille,
 De la pudeur du sexe et du devoir de fille ?
 Et veux-tu que mes feux par le monde étalés… ?
 
-Dorine
+[Dorine]
 Non, non, je ne veux rien. Je vois que vous voulez
 
 Être à Monsieur Tartuffe, et j’aurais, quand j’y pense,
@@ -1434,22 +1435,22 @@ Il est noble chez lui, bien fait de sa personne ;
 Il a l’oreille rouge et le teint bien fleuri :
 Vous vivrez trop contente avec un tel mari.
 
-Mariane
+[Mariane]
 Mon Dieu !…
 
 
-Dorine
+[Dorine]
 Quelle allégresse aurez-vous dans votre âme,
 
 Quand d’un époux si beau vous vous verrez la femme !
 
-Mariane
+[Mariane]
 Ah ! cesse, je te prie, un semblable discours ;
 
 Et contre cet hymen ouvre-moi du secours.
 C’en est fait, je me rends, et suis prête à tout faire.
 
-Dorine
+[Dorine]
 Non, il faut qu’une fille obéisse à son père,
 
 Voulût-il lui donner un singe pour époux.
@@ -1463,53 +1464,53 @@ Vous irez visiter, pour votre bienvenue,
 Madame la baillive et madame l’élue,
 Qui d’un siège pliant vous feront honorer.
 Là, dans le carnaval, vous pourrez espérer
-Le bal et la grand’bande, assavoir[31], deux musettes,
-Et parfois Fagotin[32], et les marionnettes ;
+Le bal et la grand’bande, assavoir, deux musettes,
+Et parfois Fagotin, et les marionnettes ;
 Si pourtant votre époux…
 
-Mariane
+[Mariane]
 Ah ! tu me fais mourir !
 
 De tes conseils plutôt songe à me secourir.
 
-Dorine
+[Dorine]
 Je suis votre servante.
 
 
-Mariane
+[Mariane]
 Hé ! Dorine, de grâce…
 
 
-Dorine
+[Dorine]
 Il faut, pour vous punir, que cette affaire passe.
 
 
-Mariane
+[Mariane]
 Ma pauvre fille !
 
 
-Dorine
+[Dorine]
 Non.
 
 
-Mariane
+[Mariane]
 Si mes vœux déclarés…
 
 
-Dorine
+[Dorine]
 Point. Tartuffe est votre homme, et vous en tâterez.
 
 
-Mariane
+[Mariane]
 Tu sais qu’à toi toujours je me suis confiée :
 
 Fais-moi…
 
-Dorine
+[Dorine]
 Non, vous serez, ma foi, tartufiée.
 
 
-Mariane
+[Mariane]
 Hé bien ! puisque mon sort ne saurait t’émouvoir,
 
 Laisse-moi désormais toute à mon désespoir :
@@ -1517,17 +1518,17 @@ C’est de lui que mon cœur empruntera de l’aide ;
 Et je sais de mes maux l’infaillible remède.
 (Elle veut s’en aller.)
 
-Dorine
+[Dorine]
 Hé ! là, là, revenez. Je quitte mon courroux.
 
 Il faut, nonobstant tout, avoir pitié de vous.
 
-Mariane
+[Mariane]
 Vois-tu, si l’on m’expose à ce cruel martyre,
 
 Je te le dis, Dorine, il faudra que j’expire.
 
-Dorine
+[Dorine]
 Ne vous tourmentez point. On peut adroitement
 
 Empêcher… Mais voici Valère, votre amant.
@@ -1535,122 +1536,122 @@ Empêcher… Mais voici Valère, votre amant.
 
 
 Scène 4
-Valère, Mariane, Dorine.
+[Valère, Mariane, Dorine.]
 
 
-Valère
+[Valère]
 On vient de débiter, madame, une nouvelle
 
 Que je ne savais pas, et qui sans doute est belle.
 
-Mariane
+[Mariane]
 Quoi ?
 
 
-Valère
+[Valère]
 Que vous épousez Tartuffe.
 
 
-Mariane
+[Mariane]
 Il est certain
 
 Que mon père s’est mis en tête ce dessein.
 
-Valère
+[Valère]
 Votre père, madame…
 
 
-Mariane
+[Mariane]
 A changé de visée :
 
 La chose vient par lui de m’être proposée.
 
-Valère
+[Valère]
 Quoi ! sérieusement ?
 
 
-Mariane
+[Mariane]
 Oui, sérieusement.
 
 Il s’est pour cet hymen déclaré hautement.
 
-Valère
+[Valère]
 Et quel est le dessein où votre âme s’arrête.
 
 Madame ?
 
-Mariane
+[Mariane]
 Je ne sais.
 
 
-Valère
+[Valère]
 La réponse est honnête.
 
 Vous ne savez ?
 
-Mariane
+[Mariane]
 Non.
 
 
-Valère
+[Valère]
 Non ?
 
 
-Mariane
+[Mariane]
 Que me conseillez-vous ?
 
 
-Valère
+[Valère]
 Je vous conseille, moi, de prendre cet époux.
 
 
-Mariane
+[Mariane]
 Vous me le conseillez ?
 
 
-Valère
+[Valère]
 Oui.
 
 
-Mariane
+[Mariane]
 Tout de bon ?
 
 
-Valère
+[Valère]
 Sans doute.
 
 Le choix est glorieux et vaut bien qu’on l’écoute.
 
-Mariane
+[Mariane]
 Hé bien ! c’est un conseil, monsieur, que je reçois.
 
 
-Valère
+[Valère]
 Vous n’aurez pas grand-peine à le suivre, je crois.
 
 
-Mariane
+[Mariane]
 Pas plus qu’à le donner en a souffert votre âme.
 
 
-Valère
+[Valère]
 Moi, je vous l’ai donné pour vous plaire, madame.
 
 
-Mariane
+[Mariane]
 Et moi, je le suivrai pour vous faire plaisir.
 
 
-Dorine, se retirant dans le fond du théâtre.
+[Dorine, se retirant dans le fond du théâtre.]
 Voyons ce qui pourra de ceci réussir.
 
 
-Valère
+[Valère]
 C’est donc ainsi qu’on aime ? Et c’était tromperie,
 
 Quand vous…
 
-Mariane
+[Mariane]
 Ne parlons point de cela, je vous prie.
 
 Vous m’avez dit tout franc que je dois accepter
@@ -1658,7 +1659,7 @@ Celui que pour époux on me veut présenter,
 Et je déclare, moi, que je prétends le faire,
 Puisque vous m’en donnez le conseil salutaire.
 
-Valère
+[Valère]
 Ne vous excusez point sur mes intentions.
 
 Vous aviez pris déjà vos résolutions ;
@@ -1666,31 +1667,31 @@ Et vous vous saisissez d’un prétexte frivole
 Pour vous autoriser à manquer de parole.
 
 
-Mariane
+[Mariane]
 Il est vrai, c’est bien dit.
 
 
-Valère
+[Valère]
 Sans doute ; et votre cœur
 
 N’a jamais eu pour moi de véritable ardeur.
 
-Mariane
+[Mariane]
 Hélas ! permis à vous d’avoir cette pensée.
 
 
-Valère
+[Valère]
 Oui, oui, permis à moi : mais mon âme offensée
 
 Vous préviendra peut-être en un pareil dessein ;
 Et je sais où porter et mes vœux et ma main.
 
-Mariane
+[Mariane]
 Ah ! je n’en doute point ; et les ardeurs qu’excite
 
 Le mérite…
 
-Valère
+[Valère]
 Mon Dieu ! laissons là le mérite.
 
 J’en ai fort peu, sans doute, et vous en faites foi.
@@ -1698,12 +1699,12 @@ Mais j’espère aux bontés qu’une autre aura pour moi :
 Et j’en sais de qui l’âme, à ma retraite ouverte,
 Consentira sans honte à réparer ma perte.
 
-Mariane
+[Mariane]
 La perte n’est pas grande, et de ce changement
 
 Vous vous consolerez assez facilement.
 
-Valère
+[Valère]
 J’y ferai mon possible, et vous le pouvez croire.
 
 Un cœur qui nous oublie engage notre gloire ;
@@ -1712,11 +1713,11 @@ Si l’on n’en vient à bout, on le doit feindre au moins.
 Et cette lâcheté jamais ne se pardonne,
 De montrer de l’amour pour qui nous abandonne.
 
-Mariane
+[Mariane]
 Ce sentiment sans doute est noble et relevé.
 
 
-Valère
+[Valère]
 Fort bien ; et d’un chacun il doit être approuvé.
 
 Hé quoi ! vous voudriez qu’à jamais dans mon âme
@@ -1724,81 +1725,81 @@ Je gardasse pour vous les ardeurs de ma flamme,
 Et vous visse, à mes yeux, passer en d’autres bras,
 Sans mettre ailleurs un cœur dont vous ne voulez pas ?
 
-Mariane
+[Mariane]
 Au contraire ; pour moi, c’est ce que je souhaite ;
 
 Et je voudrais déjà que la chose fût faite.
 
 
-Valère
+[Valère]
 Vous le voudriez ?
 
 
-Mariane
+[Mariane]
 Oui.
 
 
-Valère
+[Valère]
 C’est assez m’insulter,
 
 Madame ; et, de ce pas je vais vous contenter.
 (Il fait un pas pour s’en aller.)
 
-Mariane
+[Mariane]
 Fort bien.
 
 
-Valère, revenant.
+[Valère, revenant.]
 Souvenez-vous au moins que c’est vous-même
 
 Qui contraignez mon cœur à cet effort extrême.
 
-Mariane
+[Mariane]
 Oui.
 
 
-Valère, revenant encore.
+[Valère, revenant encore.]
 Et que le dessein que mon âme conçoit
 
 N’est rien qu’à votre exemple.
 
-Mariane
+[Mariane]
 À mon exemple, soit.
 
 
-Valère, en sortant.
+[Valère, en sortant.]
 Suffit : vous allez être à point nommé servie.
 
 
-Mariane
+[Mariane]
 Tant mieux.
 
 
-Valère, revenant encore.
+[Valère, revenant encore.]
 Vous me voyez, c’est pour toute ma vie.
 
 
-Mariane
+[Mariane]
 À la bonne heure !
 
 
-Valère, s’en va, et, lorsqu’il est vers la porte, il se retourne.
+[Valère, s’en va, et, lorsqu’il est vers la porte, il se retourne.]
 Hé ?
 
 
-Mariane
+[Mariane]
 Quoi ?
 
 
-Valère
+[Valère]
 Ne m’appelez-vous pas ?
 
 
-Mariane
+[Mariane]
 Moi ? Vous rêvez.
 
 
-Valère
+[Valère]
 Hé bien, je poursuis donc mes pas.
 
 Adieu, madame.
@@ -1806,11 +1807,11 @@ Adieu, madame.
 (Il s’en va lentement.)
 
 
-Mariane
+[Mariane]
 Adieu, monsieur.
 
 
-Dorine, à Mariane.
+[Dorine, à Mariane.]
 Pour moi, je pense
 
 Que vous perdez l’esprit par cette extravagance :
@@ -1820,162 +1821,162 @@ Holà ! seigneur Valère.
 
 (Elle arrête Valère par le bras.)
 
-Valère, feignant de résister.
+[Valère, feignant de résister.]
 Hé ! que veux-tu, Dorine ?
 
 
-Dorine
+[Dorine]
 Venez ici.
 
 
-Valère
+[Valère]
 Non, non, le dépit me domine.
 
 Ne me détourne point de ce qu’elle a voulu.
 
-Dorine
+[Dorine]
 Arrêtez.
 
 
-Valère
+[Valère]
 Non, vois-tu, c’est un point résolu.
 
 
-Dorine
+[Dorine]
 Ah !
 
 
-Mariane, à part.
+[Mariane, à part.]
 Il souffre à me voir, ma présence le chasse,
 
 Et je ferai bien mieux de lui quitter la place.
 
-Dorine, quittant Valère et courant à Mariane.
+[Dorine, quittant Valère et courant à Mariane.]
 À l’autre ! Où courez-vous ?
 
 
-Mariane
+[Mariane]
 Laisse.
 
 
-Dorine
+[Dorine]
 Il faut revenir.
 
 
-Mariane
+[Mariane]
 Non, non, Dorine ; en vain tu veux me retenir.
 
 
-Valère, à part
+[Valère, à part]
 Je vois bien que ma vue est pour elle un supplice ;
 
 Et, sans doute, il vaut mieux que je l’en affranchisse.
 
-Dorine, quittant Mariane et courant à Valère.
+[Dorine, quittant Mariane et courant à Valère.]
 Encor ? Diantre soit fait de vous ! Si, je le veux.
 
 Cessez ce badinage ; et venez çà tous deux.
 (Elle prend Valère et Mariane par la main, et les ramène.)
 
 
-Valère, à Dorine.
+[Valère, à Dorine.]
 Mais quel est ton dessein ?
 
 
-Mariane, à Dorine.
+[Mariane, à Dorine.]
 Qu’est-ce que tu veux faire ?
 
 
-Dorine
+[Dorine]
 Vous bien remettre ensemble, et vous tirer d’affaire.
 
 (À Valère.)
 Êtes-vous fou d’avoir un pareil démêlé ?
 
-Valère
+[Valère]
 N’as-tu pas entendu comme elle m’a parlé ?
 
 
-Dorine
+[Dorine]
 Êtes-vous folle, vous, de vous être emportée ?
 
 
-Mariane
+[Mariane]
 N’as-tu pas vu la chose, et comme il m’a traitée ?
 
 
-Dorine, à Valère.
+[Dorine, à Valère.]
 Sottise des deux parts. Elle n’a d’autre soin
 
 Que de se conserver à vous, j’en suis témoin.
-À Mariane.
+(À Mariane.)
 Il n’aime que vous seule, et n’a point d’autre envie
 Que d’être votre époux ; j’en réponds sur ma vie.
 
-Mariane, à Valère.
+[Mariane, à Valère.]
 Pourquoi donc me donner un semblable conseil ?
 
 
-Valère, à Mariane.
+[Valère, à Mariane.]
 Pourquoi m’en demander sur un sujet pareil ?
 
 
-Dorine
+[Dorine]
 Vous êtes fous tous deux. Çà, la main l’un et l’autre.
 
 (À Valère)
 Allons, vous.
 
-Valère, en donnant sa main à Dorine.
+[Valère, en donnant sa main à Dorine.]
 À quoi bon ma main ?
 
 
-Dorine, à Mariane.
+[Dorine, à Mariane.]
 Ah çà ! la vôtre.
 
 
-Mariane, en donnant aussi sa main.
+[Mariane, en donnant aussi sa main.]
 De quoi sert tout cela ?
 
 
-Dorine
+[Dorine]
 Mon Dieu ! vite, avancez.
 
-Vous vous aimez tous deux plus que vous ne pensez[33].
+Vous vous aimez tous deux plus que vous ne pensez.
 
 (Valère et Mariane se tiennent quelque temps par la main sans se regarder.)
 
 
-Valère, se tournant vers Mariane.
+[Valère, se tournant vers Mariane.]
 Mais ne faites donc point les choses avec peine ;
 
 Et regardez un peu les gens sans nulle haine.
 (Mariane se tourne du côté de Valère en lui souriant.)
 
-Dorine
+[Dorine]
 À vous dire le vrai, les amants sont bien fous !
 
 
-Valère, à Mariane.
+[Valère, à Mariane.]
 Oh çà ! n’ai-je pas lieu de me plaindre de vous ?
 
 Et, pour n’en point mentir, n’êtes vous pas méchante
 De vous plaire à me dire une chose affligeante ?
 
-Mariane
+[Mariane]
 Mais vous, n’êtes-vous pas l’homme le plus ingrat…
 
 
-Dorine
+[Dorine]
 Pour une autre saison laissons tout ce débat,
 
 Et songeons à parer ce fâcheux mariage.
 
-Mariane
+[Mariane]
 Dis-nous donc quels ressorts il faut mettre en usage.
 
 
-Dorine
+[Dorine]
 Nous en ferons agir de toutes les façons.
 
 (À Mariane.)
@@ -2005,30 +2006,30 @@ Nous allons réveiller les efforts de son frère,
 Et dans notre parti jeter la belle-mère.
 Adieu.
 
-Valère, à Mariane
+[Valère, à Mariane]
 Quelques efforts que nous préparions tous,
 
 Ma plus grande espérance, à vrai dire, est en vous.
 
-Mariane, à Valère
+[Mariane, à Valère]
 Je ne vous réponds pas des volontés d’un père ;
 
 Mais je ne serai point à d’autre qu’à Valère.
 
-Valère
+[Valère]
 Que vous me comblez d’aise ! et, quoi que puisse oser…
 
 
-Dorine
+[Dorine]
 Ah ! jamais les amants ne sont las de jaser.
 
 Sortez, vous dis-je.
 
-Valère, il fait un pas et revient.
+[Valère, il fait un pas et revient.]
 Enfin…
 
 
-Dorine
+[Dorine]
 Quel caquet est le vôtre !
 
 Tirez de cette part, et vous, tirez de l’autre.
@@ -2039,17 +2040,17 @@ Fin du second acte.
 ACTE III
 
 Scène 1
-Damis, Dorine.
+[Damis, Dorine.]
 
 
-Damis
+[Damis]
 Que la foudre sur l’heure achève mes destins,
 
 Qu’on me traite partout du plus grand des faquins,
 S’il est aucun respect ni pouvoir qui m’arrête,
 Et si je ne fais pas quelque coup de ma tête !
 
-Dorine
+[Dorine]
 De grâce, modérez un tel emportement :
 
 Votre père n’a fait qu’en parler simplement.
@@ -2057,19 +2058,19 @@ Votre père n’a fait qu’en parler simplement.
 On n’exécute pas tout ce qui se propose ;
 Et le chemin est long du projet à la chose.
 
-Damis
+[Damis]
 Il faut que de ce fat j’arrête les complots,
 
 Et qu’à l’oreille un peu je lui dise deux mots.
 
-Dorine
+[Dorine]
 Ah ! tout doux ! envers lui, comme envers votre père,
 
 Laissez agir les soins de votre belle-mère.
 Sur l’esprit de Tartuffe elle a quelque crédit,
 Il se rend complaisant à tout ce qu’elle dit,
 Et pourrait bien avoir douceur de cœur pour elle.
-Plût à Dieu qu’il fût vrai ! la chose serait belle[34].
+Plût à Dieu qu’il fût vrai ! la chose serait belle.
 Enfin, votre intérêt l’oblige à le mander :
 Sur l’hymen qui vous trouble elle veut le sonder,
 Savoir ses sentiments, et lui faire connaître
@@ -2079,29 +2080,29 @@ Son valet dit qu’il prie, et je n’ai pu le voir ;
 Mais ce valet m’a dit qu’il s’en allait descendre.
 Sortez donc, je vous prie, et me laissez l’attendre.
 
-Damis
+[Damis]
 Je puis être présent à tout cet entretien.
 
 
-Dorine
+[Dorine]
 Point. Il faut qu’ils soient seuls.
 
 
-Damis
+[Damis]
 Je ne lui dirai rien.
 
 
-Dorine
+[Dorine]
 Vous vous moquez : on sait vos transports ordinaires, ;
 
 Et c’est le vrai moyen de gâter les affaires.
 Sortez.
 
-Damis
+[Damis]
 Non ; je veux voir, sans me mettre en courroux.
 
 
-Dorine
+[Dorine]
 Que vous êtes fâcheux ! Il vient. Retirez-vous.
 
 
@@ -2110,44 +2111,44 @@ Damis va se cacher dans un cabinet qui est au fond du théâtre.
 
 
 Scène 2
-Tartuffe, Laurent, Dorine.
+[Tartuffe, Laurent, Dorine.]
 
 
-Tartuffe, parlant bas à son valet, qui est dans la maison, dès qu’il aperçoit Dorine[35].
+[Tartuffe, parlant bas à son valet, qui est dans la maison, dès qu’il aperçoit Dorine.]
 Laurent, serrez ma haire avec ma discipline,
 
 Et priez que toujours le ciel vous illumine.
 Si l’on vient pour me voir, je vais aux prisonniers
 Des aumônes que j’ai, partager les deniers.
 
-Dorine, à part.
+[Dorine, à part.]
 Que d’affectation et de forfanterie !
 
 
-Tartuffe
+[Tartuffe]
 Que voulez-vous ?
 
 
-Dorine
+[Dorine]
 Vous dire…
 
 
-Tartuffe, tirant un mouchoir de sa poche.
+[Tartuffe, tirant un mouchoir de sa poche.]
 Ah ! mon Dieu ! je vous prie,
 
 Avant que de parler, prenez-moi ce mouchoir.
 
-Dorine
+[Dorine]
 Comment !
 
 
-Tartuffe
+[Tartuffe]
 Couvrez ce sein que je ne saurais voir.
 
 Par de pareils objets les âmes sont blessées,
 Et cela fait venir de coupables pensées.
 
-Dorine
+[Dorine]
 Vous êtes donc bien tendre à la tentation ;
 
 Et la chair sur vos sens fait grande impression !
@@ -2157,32 +2158,32 @@ Mais à convoiter, moi, je ne suis point si prompte :
 Et je vous verrais nu du haut jusques en bas,
 Que toute votre peau ne me tenterait pas.
 
-Tartuffe
+[Tartuffe]
 Mettez dans vos discours un peu de modestie,
 
 Ou je vais sur-le-champ vous quitter la partie.
 
-Dorine
+[Dorine]
 Non, non, c’est moi qui vais vous laisser en repos,
 
 Et je n’ai seulement qu’à vous dire deux mots.
 Madame va venir dans cette salle basse,
 Et d’un mot d’entretien vous demande la grâce.
 
-Tartuffe
+[Tartuffe]
 Hélas ! très volontiers.
 
 
-Dorine, à part.
+[Dorine, à part.]
 Comme il se radoucit !
 
 Ma foi, je suis toujours pour ce que j’en ai dit.
 
-Tartuffe
+[Tartuffe]
 Viendra-t-elle bientôt ?
 
 
-Dorine
+[Dorine]
 Je l’entends, ce me semble.
 
 Oui, c’est elle en personne, et je vous laisse ensemble.
@@ -2190,30 +2191,30 @@ Oui, c’est elle en personne, et je vous laisse ensemble.
 
 
 Scène 3
-Elmire, Tartuffe.
+[Elmire, Tartuffe.]
 
 
-Tartuffe
+[Tartuffe]
 Que le ciel à jamais, par sa toute-bonté,
 
 Et de l’âme et du corps vous donne la santé,
 Et bénisse vos jours autant que le désire
 Le plus humble de ceux que son amour inspire !
 
-Elmire
+[Elmire]
 Je suis fort obligée à ce souhait pieux.
 
 Mais prenons une chaise, afin d’être un peu mieux.
 
-Tartuffe, assis.
+[Tartuffe, assis.]
 Comment de votre mal vous sentez-vous remise ?
 
 
-Elmire, assise.
+[Elmire, assise.]
 Fort bien ; et cette fièvre a bientôt quitté prise.
 
 
-Tartuffe
+[Tartuffe]
 Mes prières n’ont pas le mérite qu’il faut
 
 Pour avoir attiré cette grâce d’en haut :
@@ -2221,44 +2222,44 @@ Mais je n’ai fait au ciel nulle dévote instance
 
 Qui n’ait eu pour objet votre convalescence.
 
-Elmire
+[Elmire]
 Votre zèle pour moi s’est trop inquiété.
 
 
-Tartuffe
+[Tartuffe]
 On ne peut trop chérir votre chère santé ;
 
 Et pour la rétablir, j’aurais donné la mienne.
 
-Elmire
+[Elmire]
 C’est pousser bien avant la charité chrétienne ;
 
 Et je vous dois beaucoup pour toutes ces bontés.
 
-Tartuffe
+[Tartuffe]
 Je fais bien moins pour vous que vous ne méritez.
 
 
-Elmire
+[Elmire]
 J’ai voulu vous parler en secret d’une affaire,
 
 Et suis bien aise, ici, qu’aucun ne nous éclaire.
 
-Tartuffe
+[Tartuffe]
 J’en suis ravi de même ; et sans doute, il m’est doux
 
 Madame, de me voir seul à seul avec vous.
 C’est une occasion qu’au ciel j’ai demandée,
 Sans que, jusqu’à cette heure, il me l’ait accordée.
 
-Elmire
+[Elmire]
 Pour moi, ce que je veux, c’est un mot d’entretien,
 
 Où tout votre cœur s’ouvre, et ne me cache rien.
 
-Damis, sans se montrer, entr’ouvre la porte du cabinet dans lequel il s’était retiré, pour entendre la conversation.
+[Damis, sans se montrer, entr’ouvre la porte du cabinet dans lequel il s’était retiré, pour entendre la conversation.]
 
-Tartuffe
+[Tartuffe]
 Et je ne veux aussi, pour grâce singulière,
 
 Que montrer à vos yeux mon âme tout entière,
@@ -2268,72 +2269,72 @@ Ne sont pas envers vous l’effet d’aucune haine,
 Mais plutôt d’un transport de zèle qui m’entraîne,
 Et d’un pur mouvement…
 
-Elmire
+[Elmire]
 Je le prends bien aussi,
 
 Et crois que mon salut vous donne ce souci.
 
-Tartuffe, prenant la main d’Elmire, et lui serrant les doigts.
+[Tartuffe, prenant la main d’Elmire, et lui serrant les doigts.]
 Oui, madame, sans doute, et ma ferveur est telle…
 
 
-Elmire
+[Elmire]
 Ouf ! vous me serrez trop.
 
 
-Tartuffe
+[Tartuffe]
 C’est par excès de zèle.
 
 De vous faire autre mal je n’eus jamais dessein,
 Et j’aurais bien plutôt…
 (Il met la main sur les genoux d’Elmire.)
 
-Elmire
+[Elmire]
 Que fait là votre main ?
 
 
-Tartuffe
+[Tartuffe]
 Je tâte votre habit : l’étoffe en est moelleuse.
 
 
-Elmire
+[Elmire]
 Ah ! de grâce, laissez, je suis fort chatouilleuse.
 
 (Elmire recule son fauteuil, et Tartuffe rapproche d’elle.)
 
-Tartuffe, maniant le fichu d’Elmire.
+[Tartuffe, maniant le fichu d’Elmire.]
 Mon Dieu ! que de ce point l’ouvrage est merveilleux !
 
 On travaille aujourd’hui d’un air miraculeux :
-Jamais, en toute chose, on n’a vu si bien faire[36].
+Jamais, en toute chose, on n’a vu si bien faire.
 
-Elmire
+[Elmire]
 Il est vrai. Mais parlons un peu de notre affaire.
 
 On tient que mon mari veut dégager sa foi,
 Et vous donner sa fille : Est-il vrai ? dites-moi.
 
-Tartuffe
+[Tartuffe]
 Il m’en a dit deux mots : mais, madame, à vrai dire,
 
 Ce n’est pas le bonheur après quoi je soupire ;
 Et je vois autre part les merveilleux attraits
 De la félicité qui fait tous mes souhaits.
 
-Elmire
+[Elmire]
 C’est que vous n’aimez rien des choses de la terre.
 
 
-Tartuffe
+[Tartuffe]
 Mon sein n’enferme pas un cœur qui soit de pierre.
 
 
-Elmire
+[Elmire]
 Pour moi, je crois qu’au ciel tendent tous vos soupirs,
 
 Et que rien ici-bas n’arrête vos désirs.
 
-Tartuffe
+[Tartuffe]
 L’amour qui nous attache aux beautés éternelles
 
 N’étouffe pas en nous l’amour des temporelles :
@@ -2365,7 +2366,7 @@ De vous dépend ma peine ou ma béatitude ;
 Et je vais être enfin, par votre seul arrêt,
 Heureux, si vous voulez ; malheureux, s’il vous plaît.
 
-Elmire
+[Elmire]
 La déclaration est tout à fait galante ;
 
 Mais elle est, à vrai dire, un peu bien surprenante.
@@ -2373,8 +2374,8 @@ Vous deviez, ce me semble, armer mieux votre sein,
 Et raisonner un peu sur un pareil dessein.
 Un dévot comme vous, et que partout on nomme…
 
-Tartuffe
-Ah ! pour être dévot, je n’en suis pas moins homme[37] :
+[Tartuffe]
+Ah ! pour être dévot, je n’en suis pas moins homme :
 
 Et, lorsqu’on vient à voir vos célestes appas,
 Un cœur se laisse prendre, et ne raisonne pas.
@@ -2412,7 +2413,7 @@ Répond de toute chose à la personne aimée ;
 Et c’est en nous qu’on trouve, acceptant notre cœur,
 De l’amour sans scandale, et du plaisir sans peur.
 
-Elmire
+[Elmire]
 Je vous écoute dire, et votre rhétorique
 
 En termes assez forts à mon âme s’explique.
@@ -2421,7 +2422,7 @@ N’appréhendez-vous point que je ne sois d’humeur
 Et que le prompt avis d’un amour de la sorte
 Ne pût bien altérer l’amitié qu’il vous porte ?
 
-Tartuffe
+[Tartuffe]
 Je sais que vous avez trop de bénignité,
 
 Et que vous ferez grâce à ma témérité ;
@@ -2430,7 +2431,7 @@ Des violents transports d’un amour qui vous blesse,
 Et considérerez, en regardant votre air,
 Que l’on n’est pas aveugle, et qu’un homme est de chair.
 
-Elmire
+[Elmire]
 D’autres prendraient cela d’autre façon peut-être ;
 
 Mais ma discrétion se veut faire paraître.
@@ -2445,10 +2446,10 @@ Et…
 
 
 Scène 4
-Elmire, Damis, Tartuffe.
+[Elmire, Damis, Tartuffe.]
 
 
-Damis, sortant du cabinet où il s’était retiré.
+[Damis, sortant du cabinet où il s’était retiré.]
 Non, Madame, non ; ceci doit se répandre.
 
 J’étais en cet endroit, d’où j’ai pu tout entendre ;
@@ -2459,7 +2460,7 @@ De son hypocrisie et de son insolence,
 À détromper mon père, et lui mettre en plein jour
 L’âme d’un scélérat qui vous parle d’amour.
 
-Elmire
+[Elmire]
 Non, Damis, il suffit qu’il se rende plus sage,
 
 Et tâche à mériter la grâce où je m’engage.
@@ -2468,7 +2469,7 @@ Ce n’est point mon humeur de faire des éclats ;
 Une femme se rit de sottises pareilles,
 Et jamais d’un mari n’en trouble les oreilles.
 
-Damis
+[Damis]
 Vous avez vos raisons pour en user ainsi ;
 
 Et pour faire autrement, j’ai les miennes aussi.
@@ -2486,11 +2487,11 @@ Et, pour la négliger, elle est trop favorable :
 Ce serait mériter qu’il me la vînt ravir,
 Que de l’avoir en main et ne m’en pas servir.
 
-Elmire
+[Elmire]
 Damis…
 
 
-Damis
+[Damis]
 Non, s’il vous plaît, il faut que je me croie.
 
 Mon âme est maintenant au comble de sa joie ;
@@ -2502,10 +2503,10 @@ Et voici justement de quoi me satisfaire.
 
 
 Scène 5
-Orgon, Elmire, Damis, Tartuffe.
+[Orgon, Elmire, Damis, Tartuffe.]
 
 
-Damis
+[Damis]
 Nous allons régaler, mon père, votre abord
 
 D’un incident tout frais qui vous surprendra fort.
@@ -2520,7 +2521,7 @@ Voulait à toute force en garder le secret ;
 Mais je ne puis flatter une telle impudence,
 Et crois que vous la taire est vous faire une offense.
 
-Elmire
+[Elmire]
 Oui, je tiens que jamais de tous ces vains propos
 
 On ne doit d’un mari traverser le repos ;
@@ -2532,14 +2533,14 @@ Damis, si j’avais eu sur vous quelque crédit.
 
 
 Scène 6
-Orgon, Damis, Tartuffe.
+[Orgon, Damis, Tartuffe.]
 
 
-Orgon
+[Orgon]
 Ce que je viens d’entendre, ô ciel ! est-il croyable ?
 
 
-Tartuffe
+[Tartuffe]
 Oui, mon frère, je suis un méchant, un coupable,
 
 Un malheureux pécheur, tout plein d’iniquité,
@@ -2555,21 +2556,21 @@ Et comme un criminel chassez-moi de chez vous ;
 Je ne saurais avoir tant de honte en partage,
 Que je n’en aie encor mérité davantage.
 
-Orgon, à son fils.
+[Orgon, à son fils.]
 Ah ! traître, oses-tu bien par cette fausseté,
 
 Vouloir de sa vertu ternir la pureté ?
 
-Damis
-Quoi ! la feinte douceur de cette âme hypocrite[38]
+[Damis]
+Quoi ! la feinte douceur de cette âme hypocrite
 
 Vous fera démentir…
 
-Orgon
+[Orgon]
 Tais-toi, peste maudite.
 
 
-Tartuffe
+[Tartuffe]
 Ah ! laissez-le parler ; vous l’accusez à tort,
 
 Et vous ferez bien mieux de croire à son rapport.
@@ -2590,73 +2591,73 @@ Je n’y contredis point, je les ai mérités ;
 Et j’en veux à genoux souffrir l’ignominie,
 Comme une honte due aux crimes de ma vie.
 
-Orgon, à Tartuffe.
+[Orgon, à Tartuffe.]
 Mon frère, c’en est trop.
 
 (À son fils.)
 Ton cœur ne se rend point,
 Traître !
 
-Damis
+[Damis]
 Quoi ! ses discours vous séduiront au point…
 
 
-Orgon, relevant Tartuffe.
+[Orgon, relevant Tartuffe.]
 Tais-toi, pendard. Mon frère, hé ! levez-vous, de grâce !
 
 (À son fils)
 Infâme !
 
-Damis
+[Damis]
 Il peut…
 
 
-Orgon
+[Orgon]
 Tais-toi.
 
 
-Damis
+[Damis]
 J’enrage. Quoi ! je passe…
 
 
-Orgon
+[Orgon]
 Si tu dis un seul mot, je te romprai les bras.
 
 
-Tartuffe
+[Tartuffe]
 Mon frère, au nom de Dieu, ne vous emportez pas !
 
 J’aimerais mieux souffrir la peine la plus dure,
 Qu’il eût reçu pour moi la moindre égratignure.
 
-Orgon, à son fils.
+[Orgon, à son fils.]
 Ingrat !
 
 
-Tartuffe
+[Tartuffe]
 Laissez-le en paix. S’il faut, à deux genoux,
 
 Vous demander sa grâce…
 
-Orgon, se jetant aussi à genoux, et embrassant Tartuffe.
+[Orgon, se jetant aussi à genoux, et embrassant Tartuffe.]
 Hélas ! vous moquez-vous ?
 
 (À son fils.)
 Coquin ! vois sa bonté !
 
-Damis
+[Damis]
 Donc…
 
 
-Orgon
+[Orgon]
 Paix.
 
 
-Damis
+[Damis]
 Quoi ! je…
 
 
-Orgon
+[Orgon]
 Paix, dis-je ;
 
 Je sais bien quel motif à l’attaquer t’oblige.
@@ -2669,11 +2670,11 @@ Plus j’en veux employer à l’y mieux retenir ;
 Et je vais me hâter de lui donner ma fille,
 Pour confondre l’orgueil de toute ma famille.
 
-Damis
+[Damis]
 À recevoir sa main on pense l’obliger ?
 
 
-Orgon
+[Orgon]
 Oui, traître, et dès ce soir, pour vous faire enrager.
 
 Ah ! je vous brave tous, et vous ferai connaître
@@ -2681,11 +2682,11 @@ Qu’il faut qu’on m’obéisse, et que je suis le maître.
 Allons, qu’on se rétracte ; et qu’à l’instant, fripon,
 On se jette à ses pieds pour demander pardon.
 
-Damis
+[Damis]
 Qui ? moi ! de ce coquin, qui, par ses impostures…
 
 
-Orgon
+[Orgon]
 Ah ! tu résistes, gueux, et lui dis des injures ?
 
 (À Tartuffe.)
@@ -2694,11 +2695,11 @@ Un bâton ! un bâton ! Ne me retenez pas.
 Sus ; que de ma maison on sorte de ce pas,
 Et que d’y revenir on n’ait jamais l’audace.
 
-Damis
+[Damis]
 Oui, je sortirai ; mais…
 
 
-Orgon
+[Orgon]
 Vite, quittons la place.
 
 Je te prive, pendard, de ma succession,
@@ -2707,95 +2708,95 @@ Et te donne, de plus, ma malédiction.
 
 
 Scène 7
-Orgon, Tartuffe.
+[Orgon, Tartuffe.]
 
 
-Orgon
+[Orgon]
 Offenser de la sorte une sainte personne !
 
 
-Tartuffe
-Ô ciel ! pardonne-lui comme je lui pardonne[39] !
+[Tartuffe]
+Ô ciel ! pardonne-lui comme je lui pardonne !
 
 (À Orgon.)
 Si vous pouviez savoir avec quel déplaisir
 Je vois qu’envers mon frère on tâche à me noircir… !
 
-Orgon
+[Orgon]
 Hélas !
 
 
-Tartuffe
+[Tartuffe]
 Le seul penser de cette ingratitude
 
 Fait souffrir à mon âme un supplice si rude…
 L’horreur que j’en conçois… J’ai le cœur si serré
 Que je ne puis parler, et crois que j’en mourrai.
 
-Orgon, courant tout en larmes à la porte par où il a chassé son fils.
+[Orgon, courant tout en larmes à la porte par où il a chassé son fils.]
 Coquin ! je me repens que ma main t’ait fait grâce,
 
 Et ne t’ait pas d’abord assommé sur la place.
 (À Tartuffe.)
 Remettez-vous, mon frère, et ne vous fâchez pas.
 
-Tartuffe
+[Tartuffe]
 Rompons, rompons le cours de ces fâcheux débats.
 
 Je regarde céans quels grands troubles j’apporte,
 Et crois qu’il est besoin, mon frère, que j’en sorte.
 
-Orgon
+[Orgon]
 Comment ! vous moquez-vous ?
 
 
-Tartuffe
+[Tartuffe]
 On m’y hait, et je voi
 
 Qu’on cherche à vous donner des soupçons de ma foi.
 
-Orgon
+[Orgon]
 Qu’importe ! Voyez-vous que mon cœur les écoute ?
 
 
-Tartuffe
+[Tartuffe]
 On ne manquera pas de poursuivre, sans doute ;
 
 Et ces mêmes rapports qu’ici vous rejetez,
 Peut-être, une autre fois, seront-ils écoutés.
 
-Orgon
+[Orgon]
 Non, mon frère, jamais.
 
 
-Tartuffe
+[Tartuffe]
 Ah ! mon frère, une femme
 
 Aisément d’un mari peut bien surprendre l’âme.
 
-Orgon
+[Orgon]
 Non, non.
 
 
-Tartuffe
+[Tartuffe]
 Laissez-moi vite, en m’éloignant d’ici,
 
 Leur ôter tout sujet de m’attaquer ainsi.
 
-Orgon
+[Orgon]
 Non, vous demeurerez ; il y va de ma vie.
 
 
-Tartuffe
+[Tartuffe]
 Hé bien ! il faudra donc que je me mortifie.
 
 Pourtant, si vous vouliez…
 
-Orgon
+[Orgon]
 Ah !
 
 
-Tartuffe
+[Tartuffe]
 Soit : n’en parlons plus.
 
 Mais je sais comme il faut en user là-dessus.
@@ -2803,7 +2804,7 @@ L’honneur est délicat, et l’amitié m’engage
 À prévenir les bruits et les sujets d’ombrage.
 Je fuirai votre épouse et vous ne me verrez…
 
-Orgon
+[Orgon]
 Non, en dépit de tous vous la fréquenterez.
 
 Faire enrager le monde est ma plus grande joie ;
@@ -2816,11 +2817,11 @@ Un bon et franc ami, que pour gendre je prends,
 M’est bien plus cher que fils, que femme et que parents.
 N’accepterez-vous pas ce que je vous propose ?
 
-Tartuffe
+[Tartuffe]
 La volonté du ciel soit faite en toute chose !
 
 
-Orgon
+[Orgon]
 Le pauvre homme ! Allons vite en dresser un écrit :
 
 Et que puisse l’envie en crever de dépit !
@@ -2830,10 +2831,10 @@ Fin du troisième acte.
 ACTE IV
 
 Scène 1
-Cléante, Tartuffe
+[Cléante, Tartuffe]
 
 
-Cléante
+[Cléante]
 Oui, tout le monde en parle, et vous m’en pouvez croire,
 
 L’éclat que fait ce bruit n’est point à votre gloire ;
@@ -2854,7 +2855,7 @@ Et ne pousserez point les affaires à bout.
 Sacrifiez à Dieu toute votre colère,
 Et remettez le fils en grâce avec le père.
 
-Tartuffe
+[Tartuffe]
 Hélas ! je le voudrais, quant à moi, de bon cœur ;
 
 Je ne garde pour lui, monsieur, aucune aigreur ;
@@ -2872,7 +2873,7 @@ Je feins, pour qui m’accuse, un zèle charitable ;
 Que mon cœur l’appréhende, et veut le ménager
 Pour le pouvoir, sous main, au silence engager.
 
-Cléante
+[Cléante]
 Vous nous payez ici d’excuses colorées ;
 
 Et toutes vos raisons, monsieur, sont trop tirées.
@@ -2887,21 +2888,21 @@ D’une bonne action empêchera la gloire ?
 Non, non ; faisons toujours ce que le ciel prescrit,
 Et d’aucun autre soin ne nous brouillons l’esprit.
 
-Tartuffe
+[Tartuffe]
 Je vous ai déjà dit que mon cœur lui pardonne ;
 
 Et c’est faire, monsieur, ce que le ciel ordonne :
 Mais, après le scandale et l’affront d’aujourd’hui,
 Le ciel n’ordonne pas que je vive avec lui.
 
-Cléante
+[Cléante]
 Et vous ordonne-t-il, monsieur, d’ouvrir l’oreille
 
 À ce qu’un pur caprice à son père conseille ?
 Et d’accepter le don qui vous est fait d’un bien
 Où le droit vous oblige à ne prétendre rien ?
 
-Tartuffe
+[Tartuffe]
 Ceux qui me connaîtront n’auront pas la pensée
 
 Que ce soit un effet d’une âme intéressée.
@@ -2917,7 +2918,7 @@ En fassent dans le monde un criminel usage,
 Et ne s’en servent pas, ainsi que j’ai dessein,
 Pour la gloire du ciel et le bien du prochain.
 
-Cléante
+[Cléante]
 Hé ! monsieur, n’ayez point ces délicates craintes,
 
 Qui d’un juste héritier peuvent causer les plaintes.
@@ -2938,22 +2939,22 @@ Qu’on en chasse pour vous le fils de la maison ?
 Croyez-moi, c’est donner de votre prud’hommie,
 Monsieur…
 
-Tartuffe
+[Tartuffe]
 Il est, monsieur, trois heures et demie :
 
 Certain devoir pieux me demande là-haut,
-Et vous m’excuserez de vous quitter si tôt[40].
+Et vous m’excuserez de vous quitter si tôt.
 
-Cléante, seul.
+[Cléante, seul.]
 Ah !
 
 
 
 Scène 2
-Elmire, Mariane, Cléante, Dorine.
+[Elmire, Mariane, Cléante, Dorine.]
 
 
-Dorine
+[Dorine]
 De grâce, avec nous employez-vous pour elle,
 
 Monsieur : son âme souffre une douleur mortelle ;
@@ -2966,17 +2967,17 @@ Ce malheureux dessein qui nous a tous troublés.
 
 
 Scène 3
-Orgon, Elmire, Mariane, Cléante, Dorine.
+[Orgon, Elmire, Mariane, Cléante, Dorine.]
 
 
-Orgon
+[Orgon]
 Ah ! je me réjouis de vous voir assemblés.
 
 (À Mariane.)
 Je porte en ce contrat de quoi vous faire rire,
 Et vous savez déjà ce que cela veut dire.
 
-Mariane, aux genoux d’Orgon.
+[Mariane, aux genoux d’Orgon.]
 Mon père, au nom du ciel, qui connaît ma douleur,
 
 Et par tout ce qui peut émouvoir votre cœur,
@@ -2993,11 +2994,11 @@ Sauvez-moi du tourment d’être à ce que j’abhorre ;
 Et ne me portez point à quelque désespoir,
 En vous servant sur moi de tout votre pouvoir
 
-Orgon, se sentant attendrir.
+[Orgon, se sentant attendrir.]
 Allons, ferme, mon cœur ! point de faiblesse humaine !
 
 
-Mariane
+[Mariane]
 Vos tendresses pour lui ne me font point de peine ;
 
 Faites-les éclater, donnez-lui votre bien,
@@ -3007,43 +3008,43 @@ Mais, au moins, n’allez pas jusques à ma personne ;
 Et souffrez qu’un couvent, dans les austérités,
 Use les tristes jours que le ciel m’a comptés.
 
-Orgon
+[Orgon]
 Ah ! voilà justement de mes religieuses,
 
-Lorsqu’un père combat leurs[41] flammes amoureuses !
+Lorsqu’un père combat leurs flammes amoureuses !
 Debout. Plus votre cœur répugne à l’accepter,
 Plus ce sera pour vous matière à mériter.
 Mortifiez vos sens avec ce mariage,
 Et ne me rompez pas la tête davantage.
 
 
-Dorine
+[Dorine]
 Mais quoi !…
 
 
-Orgon
-Taisez-vous, vous. Parlez à votre écot[42] ;
+[Orgon]
+Taisez-vous, vous. Parlez à votre écot ;
 
 Je vous défends, tout net, d’oser dire un seul mot.
 
-Cléante
+[Cléante]
 Si par quelque conseil vous souffrez qu’on réponde…
 
 
-Orgon
+[Orgon]
 Mon frère, vos conseils sont les meilleurs du monde ;
 
 Ils sont bien raisonnés, et j’en fais un grand cas :
 Mais vous trouverez bon que je n’en use pas.
 
-Elmire, à son mari.
+[Elmire, à son mari.]
 À voir ce que je vois, je ne sais plus que dire ;
 
 Et votre aveuglement fait que je vous admire.
 C’est être bien coiffé, bien prévenu de lui,
 Que de nous démentir sur le fait d’aujourd’hui !
 
-Orgon
+[Orgon]
 Je suis votre valet, et crois les apparences.
 
 Pour mon fripon de fils je sais vos complaisances ;
@@ -3052,7 +3053,7 @@ Du trait qu’à ce pauvre homme il a voulu jouer.
 Vous étiez trop tranquille, enfin, pour être crue ;
 Et vous auriez paru d’autre manière émue.
 
-Elmire
+[Elmire]
 Est-ce qu’au simple aveu d’un amoureux transport,
 
 Il faut que notre honneur se gendarme si fort ?
@@ -3070,38 +3071,38 @@ Et crois que d’un refus la discrète froideur
 N’en est pas moins puissante à rebuter un cœur.
 
 
-Orgon
+[Orgon]
 Enfin je sais l’affaire, et ne prends point le change.
 
 
-Elmire
+[Elmire]
 J’admire, encore un coup, cette faiblesse étrange :
 
 Mais que me répondrait votre incrédulité,
 Si je vous faisais voir qu’on vous dit vérité ?
 
-Orgon
+[Orgon]
 Voir ?
 
 
-Elmire
+[Elmire]
 Oui.
 
 
-Orgon
+[Orgon]
 Chansons.
 
 
-Elmire
+[Elmire]
 Mais quoi ! si je trouvais manière
 
 De vous le faire voir avec pleine lumière ?…
 
-Orgon
+[Orgon]
 Contes en l’air.
 
 
-Elmire
+[Elmire]
 Quel homme ! Au moins, répondez-moi.
 
 Je ne vous parle pas de nous ajouter foi ;
@@ -3109,33 +3110,33 @@ Mais supposons ici que, d’un lieu qu’on peut prendre,
 On vous fît clairement tout voir et tout entendre :
 Que diriez-vous alors de votre homme de bien ?
 
-Orgon
+[Orgon]
 En ce cas, je dirais que… Je ne dirais rien,
 
 Car cela ne se peut.
 
-Elmire
+[Elmire]
 L’erreur trop longtemps dure,
 
 Et c’est trop condamner ma bouche d’imposture.
 Il faut que, par plaisir, et sans aller plus loin,
 De tout ce qu’on vous dit je vous fasse témoin.
 
-Orgon
+[Orgon]
 Soit. Je vous prends au mot. Nous verrons votre adresse,
 
 Et comment vous pourrez remplir cette promesse.
 
-Elmire, à Dorine.
+[Elmire, à Dorine.]
 Faites-le-moi venir.
 
 
-Dorine, à Elmire.
+[Dorine, à Elmire.]
 Son esprit est rusé,
 
 Et peut-être à surprendre il sera malaisé.
 
-Elmire, à Dorine.
+[Elmire, à Dorine.]
 Non ; on est aisément dupé par ce qu’on aime,
 
 Et l’amour-propre engage à se tromper soi-même.
@@ -3146,38 +3147,38 @@ Et vous, retirez-vous.
 
 
 Scène 4
-Elmire, Orgon.
+[Elmire, Orgon.]
 
 
-Elmire
+[Elmire]
 Approchons cette table, et vous mettez dessous.
 
 
-Orgon
+[Orgon]
 Comment !
 
 
-Elmire
+[Elmire]
 Vous bien cacher est un point nécessaire.
 
 
-Orgon
+[Orgon]
 Pourquoi sous cette table ?
 
 
-Elmire
+[Elmire]
 Ah ! mon Dieu ! laissez faire ;
 
 J’ai mon dessein en tête, et vous en jugerez.
 Mettez-vous là, vous dis-je ; et, quand vous y serez,
 Gardez qu’on ne vous voie et qu’on ne vous entende.
 
-Orgon
+[Orgon]
 Je confesse qu’ici ma complaisance est grande :
 
 Mais de votre entreprise il vous faut voir sortir.
 
-Elmire
+[Elmire]
 Vous n’aurez, que je crois, rien à me repartir.
 
 (À son mari, qui est sous la table.)
@@ -3204,14 +3205,14 @@ Et… L’on vient. Tenez-vous, et gardez de paraître.
 
 
 Scène 5
-Tartuffe, Elmire ; Orgon, sous la table.
+[Tartuffe, Elmire ; Orgon, sous la table.]
 
 
-Tartuffe
+[Tartuffe]
 On m’a dit qu’en ce lieu vous me vouliez parler.
 
 
-Elmire
+[Elmire]
 Oui, l’on a des secrets à vous y révéler.
 
 Mais tirez cette porte avant qu’on vous les dise ;
@@ -3236,12 +3237,12 @@ Me trouver ici seule avec vous enfermée,
 Et ce qui m’autorise à vous ouvrir un cœur
 Un peu trop prompt peut-être à souffrir votre ardeur.
 
-Tartuffe
+[Tartuffe]
 Ce langage à comprendre est assez difficile,
 
 Madame ; et vous parliez tantôt d’un autre style.
 
-Elmire
+[Elmire]
 Ah ! si d’un tel refus vous êtes en courroux,
 
 Que le cœur d’une femme est mal connu de vous !
@@ -3271,7 +3272,7 @@ Que l’intérêt qu’en vous on s’avise de prendre,
 Et l’ennui qu’on aurait que ce nœud qu’on résout
 Vînt partager du moins un cœur que l’on veut tout ?
 
-Tartuffe
+[Tartuffe]
 C’est sans doute, madame, une douceur extrême
 
 Que d’entendre ces mots d’une bouche qu’on aime ;
@@ -3290,7 +3291,7 @@ Ne vienne m’assurer tout ce qu’ils m’ont pu dire,
 Et planter dans mon âme une constante foi
 Des charmantes bontés que vous avez pour moi.
 
-Elmire, après avoir toussé pour avertir son mari.
+[Elmire, après avoir toussé pour avertir son mari.]
 Quoi ! vous voulez aller avec cette vitesse,
 
 Et d’un cœur tout d’abord épuiser la tendresse ?
@@ -3300,7 +3301,7 @@ Cependant ce n’est pas encore assez pour vous ;
 Et l’on ne peut aller jusqu’à vous satisfaire
 Qu’aux dernières faveurs on ne pousse l’affaire ?
 
-Tartuffe
+[Tartuffe]
 Moins on mérite un bien, moins on l’ose espérer.
 
 Nos vœux sur des discours ont peine à s’assurer.
@@ -3311,7 +3312,7 @@ Je doute du bonheur de mes témérités ;
 Et je ne croirai rien, que vous n’ayez, madame,
 Par des réalités su convaincre ma flamme.
 
-Elmire
+[Elmire]
 Mon Dieu ! que votre amour en vrai tyran agit !
 
 Et qu’en un trouble étrange il me jette l’esprit !
@@ -3321,40 +3322,40 @@ Quoi ! de votre poursuite on ne peut se parer,
 Et vous ne donnez pas le temps de respirer ?
 Sied-il bien de tenir une rigueur si grande ?
 De vouloir sans quartier les choses qu’on demande,
-Et d’abuser ainsi, par vos efforts pressants[43],
+Et d’abuser ainsi, par vos efforts pressants,
 Du faible que pour vous vous voyez qu’ont les gens ?
 
-Tartuffe
+[Tartuffe]
 Mais, si d’un œil bénin vous voyez mes hommages,
 
 Pourquoi m’en refuser d’assurés témoignages ?
 
-Elmire
+[Elmire]
 Mais comment consentir à ce que vous voulez,
 
 Sans offenser le ciel, dont toujours vous parlez ?
 
-Tartuffe
+[Tartuffe]
 Si ce n’est que le ciel qu’à mes vœux on oppose,
 
 Lever un tel obstacle est à moi peu de chose ;
 Et cela ne doit pas retenir votre cœur.
 
-Elmire
+[Elmire]
 Mais des arrêts du ciel on nous fait tant de peur !
 
 
-Tartuffe
+[Tartuffe]
 Je puis vous dissiper ces craintes ridicules,
 
 Madame, et je sais l’art de lever les scrupules.
 Le ciel défend, de vrai, certains contentements ;
-Mais on trouve avec lui des accommodements[44].
+Mais on trouve avec lui des accommodements.
 
 Selon divers besoins, il est une science
 D’étendre les liens de notre conscience,
 Et de rectifier le mal de l’action
-Avec la pureté de notre intention[45].
+Avec la pureté de notre intention.
 De ces secrets, madame, on saura vous instruire ;
 Vous n’avez seulement qu’à vous laisser conduire.
 Contentez mon désir, et n’ayez point d’effroi ;
@@ -3362,37 +3363,37 @@ Je vous réponds de tout, et prends le mal sur moi.
 (Elmire tousse plus fort.)
 Vous toussez fort, madame.
 
-Elmire
+[Elmire]
 Oui, je suis au supplice.
 
 
-Tartuffe
+[Tartuffe]
 Vous plaît-il un morceau de ce jus de réglisse ?
 
 
-Elmire
+[Elmire]
 C’est un rhume obstiné, sans doute ; et je vois bien
 
 Que tous les jus du monde ici ne feront rien.
 
-Tartuffe
+[Tartuffe]
 Cela, certe, est fâcheux.
 
 
-Elmire
+[Elmire]
 
 Oui, plus qu’on ne peut dire.
 
-Tartuffe
+[Tartuffe]
 Enfin votre scrupule est facile à détruire.
 
 Vous êtes assurée ici d’un plein secret,
 Et le mal n’est jamais que dans l’éclat qu’on fait.
 
 Le scandale du monde est ce qui fait l’offense,
-Et ce n’est pas pécher que pécher en silence[46].
+Et ce n’est pas pécher que pécher en silence.
 
-Elmire, après avoir encore toussé et frappé sur la table.
+[Elmire, après avoir encore toussé et frappé sur la table.]
 Enfin je vois qu’il faut se résoudre à céder ;
 
 Qu’il faut que je consente à vous tout accorder ;
@@ -3404,27 +3405,27 @@ Mais, puisque l’on s’obstine à m’y vouloir réduire,
 Puisqu’on ne veut point croire à tout ce qu’on peut dire,
 Et qu’on veut des témoins qui soient plus convaincants,
 Il faut bien s’y résoudre, et contenter les gens.
-Si ce consentement porte en soi quelque offense[47],
+Si ce consentement porte en soi quelque offense,
 Tant pis pour qui me force à cette violence ;
 La faute assurément n’en doit pas être à moi.
 
-Tartuffe
+[Tartuffe]
 Oui, madame, on s’en charge ; et la chose de soi…
 
 
-Elmire
+[Elmire]
 Ouvrez un peu la porte, et voyez, je vous prie,
 
 Si mon mari n’est point dans cette galerie.
 
-Tartuffe
+[Tartuffe]
 Qu’est-il besoin pour lui du soin que vous prenez ?
 
 C’est un homme, entre nous, à mener par le nez.
 De tous nos entretiens il est pour faire gloire,
 Et je l’ai mis au point de voir tout sans rien croire.
 
-Elmire
+[Elmire]
 Il n’importe. Sortez, je vous prie, un moment ;
 
 Et partout là dehors voyez exactement.
@@ -3432,27 +3433,27 @@ Et partout là dehors voyez exactement.
 
 
 Scène 6
-Orgon, Elmire.
+[Orgon, Elmire.]
 
 
-Orgon, sortant de dessous la table.
+[Orgon, sortant de dessous la table.]
 Voilà, je vous l’avoue, un abominable homme !
 
 Je n’en puis revenir, et tout ceci m’assomme.
 
 
-Elmire
+[Elmire]
 Quoi ! vous sortez si tôt ? Vous vous moquez des gens.
 
 Rentrez sous le tapis, il n’est pas encor temps ;
 Attendez jusqu’au bout, pour voir les choses sûres,
 Et ne vous fiez point aux simples conjectures.
 
-Orgon
+[Orgon]
 Non, rien de plus méchant n’est sorti de l’enfer.
 
 
-Elmire
+[Elmire]
 Mon Dieu ! l’on ne doit point croire trop de léger.
 
 Laissez-vous bien convaincre avant que de vous rendre ;
@@ -3462,10 +3463,10 @@ Et ne vous hâtez point, de peur de vous méprendre.
 
 
 Scène 7
-Tartuffe, Elmire, Orgon.
+[Tartuffe, Elmire, Orgon.]
 
 
-Tartuffe, sans voir Orgon.
+[Tartuffe, sans voir Orgon.]
 Tout conspire, madame, à mon contentement.
 
 J’ai visité de l’œil tout cet appartement.
@@ -3473,7 +3474,7 @@ Personne ne s’y trouve ; et mon âme ravie…
 
 (Dans le temps que Tartuffe s’avance les bras ouverts pour embrasser Elmire, elle se retire, et Tartuffe aperçoit Orgon.)
 
-Orgon, arrêtant Tartuffe.
+[Orgon, arrêtant Tartuffe.]
 Tout doux ! vous suivez trop votre amoureuse envie,
 
 Et vous ne devez pas vous tant passionner,
@@ -3485,31 +3486,31 @@ Et je croyais toujours qu’on changerait de ton ;
 Mais c’est assez avant pousser le témoignage :
 Je m’y tiens, et n’en veux, pour moi, pas davantage.
 
-Elmire, à Tartuffe
+[Elmire, à Tartuffe]
 C’est contre mon humeur que j’ai fait tout ceci ;
 
 Mais on m’a mise au point de vous traiter ainsi.
 
-Tartuffe, à Orgon.
+[Tartuffe, à Orgon.]
 Quoi ! vous croyez… ?
 
 
-Orgon
+[Orgon]
 Allons, point de bruit, je vous prie,
 
 Dénichons de céans, et sans cérémonie.
 
 
-Tartuffe
-Mon dessein…[48]
+[Tartuffe]
+Mon dessein…
 
 
-Orgon
+[Orgon]
 Ces discours ne sont plus de saison ;
 
 Il faut, tout sur-le-champ, sortir de la maison.
 
-Tartuffe
+[Tartuffe]
 C’est à vous d’en sortir, vous qui parlez en maître.
 
 La maison m’appartient, je le ferai connaître,
@@ -3523,40 +3524,40 @@ Ceux qui parlent ici de me faire sortir.
 
 
 Scène 8
-Elmire, Orgon.
+[Elmire, Orgon.]
 
 
-Elmire
+[Elmire]
 Quel est donc ce langage, et qu’est-ce qu’il veut dire ?
 
 
-Orgon
+[Orgon]
 Ma foi, je suis confus, et n’ai pas lieu de rire.
 
 
-Elmire
+[Elmire]
 Comment ?
 
 
-Orgon
+[Orgon]
 Je vois ma faute aux choses qu’il me dit ;
 
 Et la donation m’embarrasse l’esprit.
 
-Elmire
+[Elmire]
 La donation…
 
 
-Orgon
+[Orgon]
 Oui. C’est une affaire faite
 
 Mais j’ai quelque autre chose encor qui m’inquiète.
 
-Elmire
+[Elmire]
 Et quoi ?
 
 
-Orgon
+[Orgon]
 Vous saurez tout. Mais voyons au plus tôt
 
 Si certaine cassette est encore là-haut.
@@ -3569,45 +3570,45 @@ Fin du quatrième acte.
 ACTE V
 
 Scène 1
-Orgon, Cléante.
+[Orgon, Cléante.]
 
 
-Cléante
+[Cléante]
 Où voulez-vous courir ?
 
 
-Orgon
+[Orgon]
 Las ! que sais-je ?
 
 
-Cléante
+[Cléante]
 Il me semble
 
 Que l’on doit commencer par consulter ensemble
 Les choses qu’on peut faire en cet événement.
 
-Orgon
+[Orgon]
 Cette cassette-là me trouble entièrement.
 
 Plus que le reste encore elle me désespère.
 
-Cléante
+[Cléante]
 Cette cassette est donc un important mystère ?
 
 
-Orgon
+[Orgon]
 C’est un dépôt qu’Argas, cet ami que je plains,
 
 Lui-même en grand secret m’a mis entre les mains.
 Pour cela dans sa fuite il me voulut élire ;
 Et ce sont des papiers, à ce qu’il m’a pu dire,
-Où sa vie et ses biens se trouvent attachés[49].
+Où sa vie et ses biens se trouvent attachés.
 
-Cléante
+[Cléante]
 Pourquoi donc les avoir en d’autres mains lâchés ?
 
 
-Orgon
+[Orgon]
 Ce fut par un motif de cas de conscience.
 
 J’allai droit à mon traître en faire confidence ;
@@ -3617,9 +3618,9 @@ Afin que pour nier, en cas de quelque enquête,
 
 J’eusse d’un faux-fuyant la faveur toute prête,
 Par où ma conscience eût pleine sûreté
-À faire des serments contre la vérité[50].
+À faire des serments contre la vérité.
 
-Cléante
+[Cléante]
 Vous voilà mal, au moins, si j’en crois l’apparence :
 
 Et la donation et cette confidence,
@@ -3630,7 +3631,7 @@ Et cet homme sur vous ayant ces avantages,
 Le pousser est encor grande imprudence à vous ;
 Et vous deviez chercher quelque biais plus doux.
 
-Orgon
+[Orgon]
 Quoi ! sous un beau semblant de ferveur si touchante
 
 Cacher un cœur si double, une âme si méchante !
@@ -3639,7 +3640,7 @@ C’en est fait, je renonce à tous les gens de bien ;
 J’en aurai désormais une horreur effroyable
 Et m’en vais devenir, pour eux, pire qu’un diable.
 
-Cléante
+[Cléante]
 Hé bien ! ne voilà pas de vos emportements !
 
 Vous ne gardez en rien les doux tempéraments.
@@ -3668,28 +3669,28 @@ Péchez plutôt encor de cet autre côté.
 
 
 Scène 2
-Orgon, Cléante, Damis.
+[Orgon, Cléante, Damis.]
 
 
-Damis
+[Damis]
 Quoi ! mon père, est-il vrai qu’un coquin vous menace ?
 
 Qu’il n’est point de bienfait qu’en son âme il n’efface,
 Et que son lâche orgueil, trop digne de courroux,
 Se fait de vos bontés des armes contre vous ?
 
-Orgon
+[Orgon]
 Oui, mon fils ; et j’en sens des douleurs nonpareilles.
 
 
-Damis
+[Damis]
 Laissez-moi, je lui veux couper les deux oreilles.
 
 Contre son insolence on ne doit point gauchir :
 C’est à moi tout d’un coup de vous en affranchir ;
 Et, pour sortir d’affaire, il faut que je l’assomme.
 
-Cléante
+[Cléante]
 Voilà tout justement parler en vrai jeune homme.
 
 Modérez, s’il vous plaît, ces transports éclatants.
@@ -3699,14 +3700,14 @@ Où par la violence on fait mal ses affaires.
 
 
 Scène 3
-Madame Pernelle, Orgon, Elmire, Cléante, Mariane, Damis, Dorine.
+[Madame Pernelle, Orgon, Elmire, Cléante, Mariane, Damis, Dorine.]
 
 
-Madame Pernelle
+[Madame Pernelle]
 Qu’est-ce ? J’apprends ici de terribles mystères !
 
 
-Orgon
+[Orgon]
 Ce sont des nouveautés dont mes yeux sont témoins,
 
 Et vous voyez le prix dont sont payés mes soins.
@@ -3724,139 +3725,139 @@ Dont le viennent d’armer mes bontés trop peu sages,
 Me chasser de mes biens où je l’ai transféré,
 Et me réduire au point d’où je l’ai retiré.
 
-Dorine
+[Dorine]
 Le pauvre homme !
 
 
-Madame Pernelle
+[Madame Pernelle]
 Mon fils, je ne puis du tout croire
 
 Qu’il ait voulu commettre une action si noire.
 
-Orgon
+[Orgon]
 Comment ?
 
 
-Madame Pernelle
+[Madame Pernelle]
 Les gens de bien sont enviés toujours.
 
 
-Orgon
+[Orgon]
 Que voulez-vous donc dire avec votre discours,
 
 Ma mère ?
 
-Madame Pernelle
+[Madame Pernelle]
 Que chez vous on vit d’étrange sorte,
 
 Et qu’on ne sait que trop la haine qu’on lui porte.
 
-Orgon
+[Orgon]
 Qu’a cette haine à faire avec ce qu’on vous dit ?
 
 
-Madame Pernelle
+[Madame Pernelle]
 Je vous l’ai dit cent fois quand vous étiez petit :
 
 La vertu dans le monde est toujours poursuivie ;
-Les envieux mourront, mais non jamais l’envie[51].
+Les envieux mourront, mais non jamais l’envie.
 
-Orgon
+[Orgon]
 Mais que fait ce discours aux choses d’aujourd’hui ?
 
 
-Madame Pernelle
+[Madame Pernelle]
 On vous aura forgé cent sots contes de lui.
 
 
-Orgon
+[Orgon]
 Je vous ai dit déjà que j’ai vu tout moi-même.
 
 
-Madame Pernelle
+[Madame Pernelle]
 Des esprits médisants la malice est extrême.
 
 
-Orgon
+[Orgon]
 Vous me feriez damner, ma mère ! Je vous di
 
 Que j’ai vu de mes yeux un crime si hardi.
 
-Madame Pernelle
+[Madame Pernelle]
 Les langues ont toujours du venin à répandre,
 
 Et rien n’est ici-bas qui s’en puisse défendre.
 
-Orgon
+[Orgon]
 C’est tenir un propos de sens bien dépourvu.
 
 Je l’ai vu, dis-je, vu, de mes propres yeux vu,
 Ce qu’on appelle vu. Faut-il vous le rebattre
 Aux oreilles cent fois, et crier comme quatre ?
 
-Madame Pernelle
+[Madame Pernelle]
 Mon Dieu ! le plus souvent l’apparence déçoit :
 
 Il ne faut pas toujours juger sur ce qu’on voit.
 
-Orgon
+[Orgon]
 J’enrage !
 
 
-Madame Pernelle
+[Madame Pernelle]
 Aux faux soupçons la nature est sujette,
 
 Et c’est souvent à mal que le bien s’interprète.
 
-Orgon
+[Orgon]
 Je dois interpréter à charitable soin
 
 Le désir d’embrasser ma femme !
 
-Madame Pernelle
+[Madame Pernelle]
 Il est besoin,
 
 Pour accuser les gens, d’avoir de justes causes ;
 Et vous deviez attendre à vous voir sûr des choses.
 
-Orgon
+[Orgon]
 Hé ! diantre ! le moyen de m’en assurer mieux ?
 
 Je devais donc, ma mère, attendre qu’à mes yeux
 Il eût… Vous me feriez dire quelque sottise.
 
-Madame Pernelle
+[Madame Pernelle]
 Enfin d’un trop pur zèle on voit son âme éprise,
 
 Et je ne puis du tout me mettre dans l’esprit
 Qu’il ait voulu tenter les choses que l’on dit.
 
-Orgon
+[Orgon]
 Allez, je ne sais pas, si vous n’étiez ma mère,
 
 Ce que je vous dirais, tant je suis en colère.
 
-Dorine, à Orgon.
+[Dorine, à Orgon.]
 Juste retour, monsieur, des choses d’ici-bas ;
 
 Vous ne vouliez point croire, et l’on ne vous croit pas.
 
-Cléante
+[Cléante]
 Nous perdons des moments en bagatelles pures,
 
 Qu’il faudrait employer à prendre des mesures.
 Aux menaces du fourbe on doit ne dormir point.
 
-Damis
+[Damis]
 Quoi ! son effronterie irait jusqu’à ce point ?
 
 
-Elmire
+[Elmire]
 Pour moi, je ne crois pas cette instance possible,
 
 Et son ingratitude est ici trop visible.
 
-Cléante, à Orgon.
+[Cléante, à Orgon.]
 Ne vous y fiez pas ; il aura des ressorts
 
 Pour donner contre vous raison à ses efforts,
@@ -3865,23 +3866,23 @@ Embarrasse les gens dans un fâcheux dédale.
 Je vous le dis encore : armé de ce qu’il a,
 Vous ne deviez jamais le pousser jusque-là.
 
-Orgon
+[Orgon]
 Il est vrai ; mais qu’y faire ? À l’orgueil de ce traître,
 
 De mes ressentiments je n’ai pas été maître.
 
-Cléante
+[Cléante]
 Je voudrais de bon cœur qu’on pût entre vous deux
 
 De quelque ombre de paix raccommoder les nœuds.
 
-Elmire
+[Elmire]
 Si j’avais su qu’en main il a de telles armes,
 
 Je n’aurais pas donné matière à tant d’alarmes,
 Et mes…
 
-Orgon, à Dorine, voyant entrer monsieur Loyal.
+[Orgon, à Dorine, voyant entrer monsieur Loyal.]
 Que veut cet homme ? Allez tôt le savoir,
 
 Je suis bien en état que l’on me vienne voir !
@@ -3889,76 +3890,76 @@ Je suis bien en état que l’on me vienne voir !
 
 
 Scène 4
-Orgon, Madame Pernelle, Elmire, Mariane, Cléante, Damis, Dorine, Monsieur Loyal.
+[Orgon, Madame Pernelle, Elmire, Mariane, Cléante, Damis, Dorine, Monsieur Loyal.]
 
 
-Monsieur Loyal, à Dorine, dans le fond du théâtre.
+[Monsieur Loyal, à Dorine, dans le fond du théâtre.]
 Bonjour, ma chère sœur ; faites, je vous supplie,
 
 Que je parle à monsieur.
 
-Dorine
+[Dorine]
 Il est en compagnie ;
 
 Et je doute qu’il puisse à présent voir quelqu’un.
 
-Monsieur Loyal
+[Monsieur Loyal]
 Je ne suis pas pour être en ces lieux importun.
 
 Mon abord n’aura rien, je crois, qui lui déplaise ;
 Et je viens pour un fait dont il sera bien aise.
 
-Dorine
+[Dorine]
 Votre nom ?
 
 
-Monsieur Loyal
+[Monsieur Loyal]
 Dites-lui seulement que je viens
 
 De la part de monsieur Tartuffe, pour son bien.
 
-Dorine, à Orgon.
+[Dorine, à Orgon.]
 C’est un homme qui vient, avec douce manière,
 
 De la part de monsieur Tartuffe, pour affaire
 Dont vous serez, dit-il, bien aise.
 
-Cléante, à Orgon.
+[Cléante, à Orgon.]
 Il vous faut voir
 
 Ce que c’est que cet homme et ce qu’il peut vouloir.
 
-Orgon, à Cléante.
+[Orgon, à Cléante.]
 Pour nous raccommoder il vient ici peut-être :
 
-Quels sentiments aurai-je à lui faire paraître[52] ?
+Quels sentiments aurai-je à lui faire paraître ?
 
-Cléante
+[Cléante]
 Votre ressentiment ne doit point éclater ;
 
 Et s’il parle d’accord, il le faut écouter.
 
-Monsieur Loyal, à Orgon.
+[Monsieur Loyal, à Orgon.]
 Salut, monsieur. Le ciel perde qui vous veut nuire,
 
-Et vous soit favorable autant que je désire[53] !
+Et vous soit favorable autant que je désire !
 
-Orgon, bas, à Cléante.
+[Orgon, bas, à Cléante.]
 Ce doux début s’accorde avec mon jugement
 
 Et présage déjà quelque accommodement.
 
-Monsieur Loyal
+[Monsieur Loyal]
 Toute votre maison m’a toujours été chère,
 
 Et j’étais serviteur de monsieur votre père.
 
-Orgon
+[Orgon]
 Monsieur, j’ai grande honte et demande pardon
 
 D’être sans vous connaître ou savoir votre nom.
 
-Monsieur Loyal
+[Monsieur Loyal]
 Je m’appelle Loyal, natif de Normandie,
 
 Et suis huissier à verge, en dépit de l’envie.
@@ -3966,11 +3967,11 @@ J’ai, depuis quarante ans, grâce au ciel, le bonheur
 D’en exercer la charge avec beaucoup d’honneur,
 Et je vous viens, monsieur, avec votre licence,
 Signifier l’exploit de certaine ordonnance…
-Orgon
+[Orgon]
 Quoi ! vous êtes ici…
 
 
-Monsieur Loyal
+[Monsieur Loyal]
 Monsieur, sans passion.
 
 Ce n’est rien seulement qu’une sommation,
@@ -3978,11 +3979,11 @@ Un ordre de vider d’ici, vous et les vôtres,
 Mettre vos meubles hors, et faire place à d’autres,
 Sans délai ni remise, ainsi que besoin est.
 
-Orgon
+[Orgon]
 Moi ! sortir de céans ?
 
 
-Monsieur Loyal
+[Monsieur Loyal]
 Oui, monsieur, s’il vous plaît.
 
 La maison à présent, comme savez de reste,
@@ -3991,11 +3992,11 @@ De vos biens désormais il est maître et seigneur,
 En vertu d’un contrat duquel je suis porteur.
 Il est en bonne forme, et l’on n’y peut rien dire.
 
-Damis, à M. Loyal.
+[Damis, à M. Loyal.]
 Certes cette impudence est grande, et je l’admire !
 
 
-Monsieur Loyal, à Damis.
+[Monsieur Loyal, à Damis.]
 Monsieur, je ne dois point avoir affaire à vous ;
 
 (Montrant Orgon.)
@@ -4003,18 +4004,18 @@ C’est à monsieur : il est et raisonnable et doux,
 Et d’un homme de bien il sait trop bien l’office,
 Pour se vouloir du tout opposer à justice.
 
-Orgon
+[Orgon]
 Mais…
 
 
-Monsieur Loyal
+[Monsieur Loyal]
 Oui, monsieur, je sais que pour un million
 
 Vous ne voudriez pas faire rébellion,
 Et que vous souffrirez en honnête personne
 Que j’exécute ici les ordres qu’on me donne.
 
-Damis
+[Damis]
 Vous pourriez bien ici sur votre noir jupon,
 
 Monsieur l’huissier à verge, attirer le bâton.
@@ -4025,11 +4026,11 @@ Faites que votre fils se taise ou se retire,
 Monsieur. J’aurais regret d’être obligé d’écrire,
 Et de vous voir couché dans mon procès-verbal.
 
-Dorine, à part.
+[Dorine, à part.]
 Ce Monsieur Loyal porte un air bien déloyal.
 
 
-Monsieur Loyal
+[Monsieur Loyal]
 Pour tous les gens de bien j’ai de grandes tendresses,
 
 Et ne me suis voulu, monsieur, charger des pièces
@@ -4038,12 +4039,12 @@ Que pour ôter par là le moyen d’en choisir
 Qui, n’ayant pas pour vous le zèle qui me pousse,
 Auraient pu procéder d’une façon moins douce.
 
-Orgon
+[Orgon]
 Et que peut-on de pis que d’ordonner aux gens
 
 De sortir de chez eux ?
 
-Monsieur Loyal
+[Monsieur Loyal]
 On vous donne du temps ;
 
 Et jusques à demain je ferai surséance
@@ -4063,79 +4064,79 @@ Et comme je vous traite avec grande indulgence,
 Je vous conjure aussi, monsieur, d’en user bien,
 Et qu’au dû de ma charge on ne me trouble en rien.
 
-Orgon, à part.
+[Orgon, à part.]
 Du meilleur de mon cœur je donnerais, sur l’heure
 
 Les cent plus beaux louis de ce qui me demeure,
 Et pouvoir, à plaisir, sur ce mufle assener
 Le plus grand coup de poing qui se puisse donner.
 
-Cléante, bas, à Orgon.
+[Cléante, bas, à Orgon.]
 Laissez, ne gâtons rien.
 
 
-Damis
+[Damis]
 À cette audace étrange
 
 J’ai peine à me tenir, et la main me démange.
 
-Dorine
+[Dorine]
 Avec un si bon dos, ma foi, monsieur Loyal,
 
 Quelques coups de bâton ne vous siéraient pas mal.
 
 
-Monsieur Loyal
+[Monsieur Loyal]
 On pourrait bien punir ces paroles infâmes,
 
 Mamie ; et l’on décrète aussi contre les femmes.
 
-Cléante, à monsieur Loyal.
+[Cléante, à monsieur Loyal.]
 Finissons tout cela, monsieur ; c’en est assez.
 
 Donnez tôt ce papier, de grâce, et nous laissez.
 
-Monsieur Loyal
+[Monsieur Loyal]
 Jusqu’au revoir. Le ciel vous tienne tous en joie !
 
 
-Orgon
+[Orgon]
 Puisse-t-il te confondre, et celui qui t’envoie !
 
 
 
 Scène 5
-Orgon, Madame Pernelle, Elmire, Cléante, Mariane, Damis, Dorine.
+[Orgon, Madame Pernelle, Elmire, Cléante, Mariane, Damis, Dorine.]
 
 
-Orgon
+[Orgon]
 Hé bien ! vous le voyez, ma mère, si j’ai droit ;
 
 Et vous pouvez juger du reste par l’exploit.
 Ses trahisons enfin vous sont-elles connues ?
 
-Madame Pernelle
+[Madame Pernelle]
 Je suis toute ébaubie, et je tombe des nues !
 
 
-Dorine, à Orgon.
+[Dorine, à Orgon.]
 Vous vous plaignez à tort, à tort vous le blâmez,
 
 Et ses pieux desseins par là sont confirmés.
 Dans l’amour du prochain sa vertu se consomme :
 Il sait que très souvent les biens corrompent l’homme,
 Et, par charité pure, il veut vous enlever
-Tout ce qui vous peut faire obstacle à vous sauver[54].
+Tout ce qui vous peut faire obstacle à vous sauver.
 
-Orgon
+[Orgon]
 Taisez-vous. C’est le mot qu’il vous faut toujours dire.
 
 
-Cléante, à Orgon.
+[Cléante, à Orgon.]
 Allons voir quel conseil on doit vous faire élire.
 
 
-Elmire
+[Elmire]
 Allez faire éclater l’audace de l’ingrat.
 
 Ce procédé détruit la vertu du contrat ;
@@ -4145,10 +4146,10 @@ Pour souffrir qu’il en ait le succès qu’on veut croire.
 
 
 Scène 6
-Valère, Orgon, Madame Pernelle, Elmire, Cléante, Mariane, Damis, Dorine.
+[Valère, Orgon, Madame Pernelle, Elmire, Cléante, Mariane, Damis, Dorine.]
 
 
-Valère
+[Valère]
 Avec regret, monsieur, je viens vous affliger ;
 
 Mais je m’y vois contraint par le pressant danger.
@@ -4164,21 +4165,21 @@ Et remettre en ses mains, dans les traits qu’il vous jette,
 D’un criminel d’État l’importante cassette,
 Dont, au mépris, dit-il, du devoir d’un sujet,
 Vous avez conservé le coupable secret.
-J’ignore le détail du crime qu’on vous donne[55] ;
+J’ignore le détail du crime qu’on vous donne ;
 Mais un ordre est donné contre votre personne ;
 Et lui-même est chargé, pour mieux l’exécuter,
 D’accompagner celui qui vous doit arrêter.
 
-Cléante
+[Cléante]
 Voilà ses droits armés ; et c’est par où le traître
 
 De vos biens qu’il prétend cherche à se rendre maître.
 
-Orgon
+[Orgon]
 L’homme est, je vous l’avoue, un méchant animal !
 
 
-Valère
+[Valère]
 Le moindre amusement vous peut être fatal.
 
 J’ai, pour vous emmener, mon carrosse à la porte,
@@ -4189,7 +4190,7 @@ Et ce sont de ces coups que l’on pare en fuyant.
 Et veux accompagner, jusqu’au bout, votre fuite.
 
 
-Orgon
+[Orgon]
 Las ! que ne dois-je point à vos soins obligeants !
 
 Pour vous en rendre grâce, il faut un autre temps ;
@@ -4197,7 +4198,7 @@ Et je demande au ciel de m’être assez propice
 Pour reconnaître un jour ce généreux service.
 Adieu : prenez le soin, vous autres.
 
-Cléante
+[Cléante]
 Allez tôt.
 
 Nous songerons, mon frère, à faire ce qu’il faut.
@@ -4205,56 +4206,56 @@ Nous songerons, mon frère, à faire ce qu’il faut.
 
 
 Scène 7
-Tartuffe, un Exempt, Madame Pernelle, Orgon, Elmire, Cléante, Mariane, Valère, Damis, Dorine.
+[Tartuffe, un Exempt, Madame Pernelle, Orgon, Elmire, Cléante, Mariane, Valère, Damis, Dorine.]
 
 
-Tartuffe, arrêtant Orgon.
+[Tartuffe, arrêtant Orgon.]
 Tout beau, monsieur, tout beau, ne courez point si vite :
 
 Vous n’irez pas fort loin pour trouver votre gîte ;
 Et de la part du prince on vous fait prisonnier.
 
-Orgon
+[Orgon]
 Traître ! tu me gardais ce trait pour le dernier :
 
 C’est le coup, scélérat, par où tu m’expédies ;
 Et voilà couronner toutes tes perfidies.
 
-Tartuffe
+[Tartuffe]
 Vos injures n’ont rien à me pouvoir aigrir ;
 
 Et je suis, pour le ciel, appris à tout souffrir.
 
-Cléante
+[Cléante]
 La modération est grande, je l’avoue.
 
 
-Damis
+[Damis]
 Comme du ciel l’infâme impudemment se joue !
 
 
-Tartuffe
+[Tartuffe]
 Tous vos emportements ne sauraient m’émouvoir ;
 
 Et je ne songe à rien qu’à faire mon devoir.
 
-Mariane
+[Mariane]
 Vous avez de ceci grande gloire à prétendre ;
 
 Et cet emploi pour vous est fort honnête à prendre.
 
-Tartuffe
+[Tartuffe]
 Un emploi ne saurait être que glorieux
 
 Quand il part du pouvoir qui m’envoie en ces lieux.
 
-Orgon
+[Orgon]
 Mais t’es-tu souvenu que ma main charitable,
 
 Ingrat, t’a retiré d’un état misérable ?
 
 
-Tartuffe
+[Tartuffe]
 Oui, je sais quels secours j’en ai pu recevoir ;
 
 Mais l’intérêt du prince est mon premier devoir.
@@ -4263,16 +4264,16 @@ De ce devoir sacré la juste violence
 Et je sacrifierais à de si puissants nœuds
 Ami, femme, parents, et moi-même avec eux.
 
-Elmire
+[Elmire]
 L’imposteur !
 
 
-Dorine
+[Dorine]
 Comme il sait, de traîtresse manière,
 
 Se faire un beau manteau de tout ce qu’on révère !
 
-Cléante
+[Cléante]
 Mais, s’il est si parfait que vous le déclarez,
 
 Ce zèle qui vous pousse et dont vous vous parez,
@@ -4280,34 +4281,34 @@ D’où vient que pour paraître il s’avise d’attendre
 Qu’à poursuivre sa femme il ait su vous surprendre
 Et que vous ne songez à l’aller dénoncer
 Que lorsque son honneur l’oblige à vous chasser ?
-Je ne vous parle point, pour devoir en distraire[56],
+Je ne vous parle point, pour devoir en distraire,
 Du don de tout son bien qu’il venait de vous faire ;
 Mais, le voulant traiter en coupable aujourd’hui,
 Pourquoi consentiez-vous à rien prendre de lui ?
 
-Tartuffe, à l’Exempt
+[Tartuffe, à l’Exempt]
 Délivrez-moi, monsieur, de la criaillerie ;
 
 Et daignez accomplir votre ordre, je vous prie.
 
-L’Exempt
+[L’Exempt]
 Oui, c’est trop demeurer, sans doute, à l’accomplir ;
 
 Votre bouche à propos m’invite à le remplir :
 Et, pour l’exécuter, suivez-moi tout à l’heure
 Dans la prison qu’on doit vous donner pour demeure.
 
-Tartuffe
+[Tartuffe]
 Qui ? moi, monsieur ?
 
 
-L’Exempt
+[L’Exempt]
 Oui, vous.
-Tartuffe
+[Tartuffe]
 Pourquoi donc la prison ?
 
 
-L’Exempt
+[L’Exempt]
 Ce n’est pas vous à qui j’en veux rendre raison.
 
 (À Orgon.)
@@ -4353,32 +4354,32 @@ D’une bonne action verser la récompense ;
 Que jamais le mérite avec lui ne perd rien ;
 Et que mieux que du mal, il se souvient du bien.
 
-Dorine
+[Dorine]
 Que le ciel soit loué !
 
 
-Madame Pernelle
+[Madame Pernelle]
 Maintenant je respire.
 
 
-Elmire
+[Elmire]
 Favorable succès !
 
 
-Mariane
+[Mariane]
 Qui l’aurait osé dire ?
 
 
-Orgon, à Tartuffe, que l’exempt emmène.
+[Orgon, à Tartuffe, que l’exempt emmène.]
 Hé bien ! te voilà, traître !…
 
 
 
 Scène 8
-Madame Pernelle, Orgon, Elmire, Mariane, Cléante, Valère, Damis, Dorine.
+[Madame Pernelle, Orgon, Elmire, Mariane, Cléante, Valère, Damis, Dorine.]
 
 
-Cléante
+[Cléante]
 Ah ! mon frère, arrêtez,
 
 Et ne descendez point à des indignités.
@@ -4391,7 +4392,7 @@ Et puisse du grand prince adoucir la justice ;
 Tandis qu’à sa bonté vous irez, à genoux,
 Rendre ce que demande un traitement si doux.
 
-Orgon
+[Orgon]
 Oui, c’est bien dit. Allons à ses pieds avec joie
 
 Nous louer des bontés que son cœur nous déploie :
@@ -4402,117 +4403,3 @@ La flamme d’un amant généreux et sincère.
 
 
 Fin du Tartuffe
-
-Acteurs de la troupe de Molière :
-Béjart.
-Molière.
-Mademoiselle Molière (Armande Béjart).
-Hubert.
-Mademoiselle de Brie.
-La Grange.
-La Thorillière.
-Du Croisy.
-Magdeleine Béjart.
-De Brie.
-Suivant les commentateurs, le roi Pétaud (de peto, je demande) était le nom du chef que se choisissaient les mendiants au moyen-âge. La cour d’un tel roi, avec de tel sujets, ne devait pas nécessairement présenter que désordre et confusion. Le mot pétaudière se rattache probablement à la même origine.
-Sous chape ou sous cape, en secret. La cape ou la chape, de bardocucullus des Gaulois, était un manteau à capuchon. On rabattait ce capuchon pour se cacher le visage, lorsqu’on voulait n’être point reconnu ; et métaphoriquement on vivait sous cape, quand on cachait ses actions.
-Molière, dans cette entrée en scène, dessine et fait connaître ses caractères avec une verve incomparable, ce qui a fait dire à l’auteur de la Lettre sur l’Imposteur, publiée quinze jour après la première représentation : « le spectateur reçoit une volupté très sensible d’être informé dès l’abord de la nature des personnages par une voie si fidèle et si agréable. »
-Var. : De le voir quereller par un fou comme vous.
-L’auteur de la Lettre sur l’Imposteur a remarqué le premier que ce trait était là pour faire pressentir la conduite, ou plutôt pour rendre croyable l’amour porté de Tartuffe.
-(Aimé Martin)
-Cette tirade fait allusion à la comtesse de Soissons, Olympe Mancini, qui, pour se venger de l’abandon du roi, sema la nouvelle de ses amours avec La Vallière, encore vertueuse, et en instruisit la reine, en y donnant le tour qu’elle voulait qu’on y croie. Son petit époux joua un rôle dans cette intrigue, et ils furent exilés tous deux.
-(Aimé Martin.)
-Allusion à la duchesse de Navailles, qui avait fait placer des grilles à l’entrée des appartements des filles d’honneur, pour empêcher les entretiens du roi avec mademoiselle Lamothe Houdancourt. La duchesse de Navailles devait sa fortune à Mazarin, dont elle avait servi les intrigues pendant la Fronde, sous le nom de mademoiselle de Neuillant.
-La Lettre sur l’Imposteur indique ici un couplet de madame Pernelle et une repartie vigoureuse de Cléante, que Molière, sans doute, crut devoir supprimer à la reprise de sa pièce.
-Le Père Caussin, jésuite, dit, dans sa Cour sainte, que les hommes ont fondé la tour de Babel, et les femmes la tour de babil. Ce quolibet du jésuite n’aurait-il pas donné l’idée de celui que Molière met dans la bouche de madame Pernelle ? et le père Caussin ne serait-il pas le docteur dont parle la vieille dévote ?
-(Auger.)
-Jusqu’à satiété, sans rien oublier.
-L’exposition vaut seule une pièce entière : c’est une espèce d’action. L’ouverture de la scène vous transporte sur-le-champ dans l’intérieur d’un ménage où la mauvaise humeur et le babil grondeur d’une vieille femme, la contrariété des avis et la marche du dialogue, font ressortir naturellement tous les personnages, que le spectateur doit connaître sans que le poète ait l’air de les lui montrer. Le sot entêtement d’Orgon pour Tartuffe, les simagrées de dévotion et de zèle du faux dévot, le caractère tranquille et réservé d’Elmire, la fougue impétueuse de son fils Damis, la saine philosophie de son frère Cléante, la gaieté caustique de Dorine, et la liberté familière que lui donne une longue habitude de dire son avis sur tout, la douceur timide de Mariane, tout ce que la suite de la pièce doit développer, tout, jusqu’à l’amour de Tartuffe pour Elmire, est annoncé dans cette scène, qui est à la fois une exposition, un tableau, une situation.
-(La Harpe.)
-Toutes les précautions étaient prises, sinon pour ne plus choquer la cabale, du moins pour intéresser le roi dans la pièce, pour le mettre de son côté et le tenir. Dès la seconde scène du premier acte, Orgon est loué de n’avoir pas été frondeur :
-
-Nos troubles l’avaient mis sur le pied d’homme sage,
-Et, pour servir son prince, il montra du courage.
-
-Cela, dit en passant, allait au cœur de Louis XIV. Le soupçon d’avoir épousé les intérêts du coadjuteur fut toujours le grand crime, le péché originel de nos jansénistes dans son esprit. — L’acte cinquième tout entier roule sur la justice du roi ; c’est le roi qui, aux dernières scènes, devient le personnage dominant, quoique absent, le véritable Deus ex machina. Le Jupiter éclate ici comme dans l’Amphitryon, mais avec sérieux. Ce cinquième acte est toute une célébration de Louis XIV :
-
-D’un fin discernement sa grande âme est pourvue
-Sur les choses toujours jette une droite vue ;
-Chez elle jamais rien ne surprend trop d’accès,
-Et sa ferme raison ne tombe en nul excès.
-
-Cette louange sur le droit sens naturel et la modération de jugement du maître, était méritée encore à cette date de 1669 ; l’apparition du Tartuffe venait elle-même comme pièce à l’appui. Mais la balance, qui se maintint assez bien entre tout excès jusque durant les dix années suivantes, se rompit après.
-(Sainte-Beuve.)
-Ce trait est emprunté de Juvénal :
-…………………………………Laudare paratus
-Si bene ructavit, si rectum minxit amicus.
-Un soir, pendant la campagne de 1662, comme Louis XIV allait se mettre à table, il lui arriva de dire à Pèrefixe, évêque de Rodez, son ancien précepteur, qu’il lui conseillait d’en aller faire autant. Je ne ferai qu’une légère collation, dit le prélat en se retirant, c’est aujourd’hui vigile et jeûne. Cette réponse fit sourire un courtisan, qui, interrogé par Louis XIV, répondit que Sa Majesté pouvait se tranquilliser sur le compte de M. de Rodez ; après quoi il fit un récit exact du dîner de Son Excellence, dont le hasard l’avait rendu témoin. À chaque mets exquis que le conteur nommait, Louis XIV s’écriait : Le pauvre homme ! prononçant ces mots d’un son de voix varié qui les rendait plus plaisants. Molière, témoin de cette scène, en fit usage dans le Tartuffe.
-(Bret.)
-Le rôle de Cléante était une indispensable contre-partie de celui du Tartuffe, un contre-poids ; Cléante nous figure l’honnête homme de la pièce, le représentant de la morale des honnêtes gens dans la perfection, de la morale du juste milieu. Pascal, dans ses premières Lettres, s’était mis, par supposition, en dehors des molinistes et des jansénistes, simple homme du monde et curieux qui se veut instruire. Cléante de même, mais plus à distance, se tient en dehors des dévots ; il se contente d’approuver les vrais, il les honore ; il flétrit les faux. La supposition de l’honnête indifférent d’après Pascal s’est élargie et à Cléante nous rend l’homme du monde comme Louis XIV le voulait dès ce temps-là. Il a un fond de religion, ce qu’il en faut. Pas trop n’en faut, comme dit la chanson.
-
-    (Sainte-Beuve.)
-
-Libertin, aujourd’hui restreint à la débauche des femmes, signifiait dans l’origine un esprit fort, un libre penseur ; on le disait aussi des personnes indépendantes par caractère, et ennemies de la contrainte.
-(F. Génin.)
-Au moyen âge et dans le dix-septième siècle encore, les domestiques allaient sur les places publiques attendre qu’on vînt engager leurs services. Les dévots de place, comme les valets de place, sont donc ceux qui s’affichent à tous les regards.
-Un mari qui se laisse tromper et gouverner par sa femme est réputé partout de cornes, cornu, cornard ; c’est par cette raison que cocu, cornard et sot sont synonymes.
-(Voltaire)
-Pour : c’est un cas de conscience.
-Ce vers est à la fois clair et précis ; il ne renferme ni faute de français ni contre-sens, comme l’ont avancé d’habiles commentateurs : Dorine continue d’exprimer ici la pensée qu’elle exprimait tout à l’heure ; c’est comme si elle disait : Il m’importerait peu, je me moquerais fort de prendre un tel époux car
-
-            ………………………un homme assurément
-            Ne m’épouserait pas de force impunément ;
-            Et je lui ferais voir, bientôt après la fête,
-            Qu’une femme à toujours une vengeance prête.
-
-    (Aimé Martin.)
-
-Toutes les éditions portent à tort : à savoir ; c’est l’ancien infinitif assavoir.
-(F. Génin.)
-Singe célèbre par ses tours.
-L’auteur de la lettre sur la comédie de l’Imposteur remarque judicieusement « que ce dépit a cela de particulier et d’original, qu’il naît et finit dans une même scène, et cela aussi vraisemblablement que faisaient ceux qu’on avait vus auparavant, où ces colères amoureuses naissent de quelques tromperies faites par un tiers, la plupart du temps derrière le théâtre ; au lieu qu’ici elles naissent divinement, à la vue des spectateurs, et de la délicatesse et de la force de la passion même. »
-Déjà trois fois les spectateurs ont été prévenus des sentiments de Tartuffe pour Elmire : ils le seront encore une quatrième, et la déclaration suivra aussitôt. Molière avait besoin d’avertir le public d’une scène aussi extraordinaire ; et c’est en lui promettant longtemps d’avance un plaisir, celui de surprendre les secrets de l’hypocrite, qu’il prépare cette scène, et qu’il en établit la vraisemblance.
-(Aimé Martin.)
-On a souvent demandé pourquoi Molière avait retardé l’entrée de son hypocrite jusqu’au troisième acte. Le secret de cette intention se trouve dans la Lettre sur l’Imposteur : « C’est peut-être, y est il dit, une adresse de l’auteur de ne l’avoir pas fait voir plus tôt, mais seulement quand l’action est échauffée ; car un caractère de cette force tomberait, s’il paraissait sans faire d’abord un jeu digne de lui. » (Aimé Martin.) — La Bruyère, dans le portrait d’Onuphre, qui est comme on sait, le pendant de Tartuffe, semble avoir blâmé indirectement cette entrée en scène dans ces lignes : « Il (Onuphre) ne dit point ma haire et ma discipline ; au contraire. Il passerait pour ce qu’il est, pour un hypocrite, et il veut passer pour ce qu’il n’est pas, pour un homme dévot. » Voici ce que M. Sainte-Beuve a répondu à cette critique : « Que La Bruyère dise tout ce qu’il voudra, ce Laurent, serrez ma haire…, est le plus admirable début dramatique et comique qui se puisse inventer. De tels traits emportent le reste et déterminent un caractère. Il y a là toute une vocation : celui qui trouve une telle entrée est d’emblée un génie dramatique ; celui qui peut y chercher quelque chose, non pas à critiquer, mais à réétudier à froid, à perfectionner hors de là pour son plaisir, aura tous les mérites qu’on voudra comme moraliste et comme peintre ; mais ce ne sera jamais qu’un peintre à l’huile, auteur de portraits à être admirés dans le cabinet.
-Panurge, dans Rabelais, agit comme Tartuffe : « Quand il se trouvait en compagnie de quelques bonnes dames, il leur mettait sur le propos de lingerie, et leur mettait la main au sein, demandant : Et cet ouvrage est-il de Flandre ou de Haynault ? »
-On a dit que ce vers était une parodie de celui de Sertorius :
-Et pour être Romain, je n’en suis pas moins homme.
-C’est une erreur. Molière imite ici un passage du Décaméron de Bocace, ou, pour mieux dire, il ne fait que traduire littéralement les paroles d’un confesseur qui joue auprès de sa pénitente le même rôle que Tartuffe joue auprès d’Elmire : « Vous devez, lui dit-il, vous glorifier des charmes que le ciel vous a donnés, en pensant qu’ils ont pu plaire à un saint. C’est votre beauté irrésistible, c’est l’amour, qui me forcent à en agir ainsi ; et, pour être abbé, je n’en suis pas moins homme : come che io sia abate, io sono uomo come gli altri.
-(Bret.)
-Var. Quoi ! la feinte douleur de cette âme hypocrite.
-Dans toutes les éditions de Molière on lit :
-Ô ciel ! pardonne-lui la douleur qu’il me donne !
-Vers faible, substitué sans doute par nécessité à celui que nous plaçons aujourd’hui dans le texte, et qui est venu jusqu’à nous par tradition :
-Ô ciel ! pardonne-lui comme je lui pardonne !
-C’est là le véritable vers de Molière. On aura accusé Molière d’avoir parodié l’Oraison dominicale, et il sera vu obligé de remplacer un vers admirable par un mauvais vers. Ce qui justifie cette conjecture, c’est que, dans sa préface, il parle des corrections qu’il a faites, et qui n’ont de rien servi. Plus loin, il ajoute : Il suffit, ce me semble, que j’en aie retranché les termes consacrés, dont on aurait eu peine à entendre faire un mauvais usage. Or, ce sont ici des termes consacrés, puisque ce sont ceux du Pater. Le changement que j’introduis dans le texte n’est donc qu’une restitution, et c’est ainsi qu’on doit imprimer ce passage à l’avenir.
-(Aimé Martin.)
-Euthyphron poursuivait son père devant les juges, et se vantait de faire une action agréable aux dieux ; Socrate l’ayant convaincu d’impiété, il rompit brusquement l’entretien, et se retira en disant, comme Tartuffe : « Je suis pressé, Socrate : il est temps que je te quitte. »
-(Aimé Martin.)
-Var. Lorsqu’un père combat les flammes amoureuses.
-Parlez à votre écot, c’est-à-dire : Parlez à ceux qui sont de votre écot, de votre compagnie.
-(Petitot.)
-Var. Et d’abuser ainsi par des efforts pressants.
-C’est un scélérat qui parle. (Note de Molière.) Il est probable que l’auteur avait cru cette observation nécessaire, pour prévenir les interprétations calomnieuses de ses ennemis.
-Dans la septième Provinciale, Pascal dit : « Quand nous ne pouvons pas empêcher l’action, nous purifions au moins l’intention ; et ainsi nous corrigeons le vice du moyen par la pureté de la fin. » Molière, en écrivant les vers ci-dessus s’est évidemment souvenu de Pascal. La plupart des commentateurs ont fait ce rapprochement entre les deux écrivains ; mais personne, que nous sachions, n’est remonté jusqu’à auteur qui, le premier, a attaqué la doctrine si éloquemment stigmatisée par Pascal. Cet auteur est Machiavel. Dans la Mandragore, le frère Timothée engage une femme mariée à prendre un amant, afin de donner un héritier à son mari, et après plusieurs arguments tirés de la situation, il ajoute : « Quand à l’acte en lui-même, c’est un conte de croire que ce soit un péché ; car c’est la volonté seule qui pêche, et non le corps ; déplaire à son mari, voilà le vrai péché : or, vous faites ce qu’il désire, il y trouve sa satisfaction, et vous n’agissez qu’à contre-cœur. Outre cela, c’est la fin qu’il faut considérer en toutes choses : celle que vous vous proposer est d’obtenir une place en paradis, et de contenter votre mari. La Bible dit que les filles de Loth se croyant restées seules au monde, eurent commerce avec leur propre père ; et comme elles avaient une bonne intention, elles ne péchèrent point. »
-(La Mandragore, acte III, scène XI.)
-Regnier avait dit dans sa treizième satire :
-Le péché que l’on cache est demi-pardonné,
-La faute seulement ne gît en la défense :
-Le scandale, l’opprobre, est cause de l’offense.
-(Petitot.)
-Var. Si ce contentement porte en soi quelque offense.
-Dans cette scène, dit l’auteur de la Lettre sur l’Imposteur, Tartuffe démasqué appelait Orgon son frère, et entrait en matière pour se justifier : sans doute que Molière aura cru convenable de modifier ce passage.
-(Petitot.)
-Les mémoires du temps sont pleins d’aventures semblables à celle d’Orgon. Nous en rapporterons une que Voltaire a mise au théâtre. En 1661, c’est-à-dire à peu près à l’époque où Molière commençait le Tartuffe, Gourville, obligé de fuir pour ne pas être pendu en personne comme il le fut en effigie, laissa deux cassettes précieuses, l’une à Ninon, l’autre à un dévot hypocrite. À son retour, Ninon lui rendit sa cassette en fort bon état, mais il n’en fut pas de même de l’hypocrite ; celui-ci avait employé le dépôt en œuvres pies, préférant, disait-il, le salut de l’âme de Gourville à un argent qui sûrement l’aurait damné.
-(Aimé Martin.)
-C’est ici la doctrine des restrictions mentales, que Tartuffe a enseignée à Orgon, de même qu’il a voulu enseigner à Elmire celle de la direction d’intention. Voir sur les restrictions mentales la neuvième Provinciale.
-Vers emprunté à un proverbe : L’envie ne mourra jamais, mais les envieux mourront ; cette phrase se trouve dans la comédie des Proverbes d’Adrien de Montluc, imprimée en 1616.
-Dans l’édition de 1682, ce verbe est écrit, tantôt par un o, tantôt par un a, tantôt par un e, suivant les besoins de la rime.
-C’est faute d’avoir pénétré les intentions du poète que les commentateurs ont blâmé ce rôle. « M. Loyal, est-il dit dans la Lettre sur l’Imposteur, fait voir qu’il y a des faux dévots dans toutes les professions, et qu’ils sont tous liés ensemble, ce qui est le caractère de la cabale. » C’est donc pour montrer l’union des faux dévots de toutes les classes que Molière a fait de M. Loyal un saint de la même étoffe que Tartuffe.
-(Aimé Martin.)
-Cette Dorine, qui fait un rôle si animé, si essentiel dans le Tartuffe, et qui en est le boute-en-train, me personnifie à merveille la verve même du poète, ce qu’on oserait appeler le gros de sa muse, un peu comme chez Rubens ces Sirènes poissonneuses et charnues, les favorites du peintre. Ainsi cette Dorine, si provocante, si drue, servirait très-bien à figurer la muse comique de Molière en ce qu’elle a de tout à fait à part et d’invincible, et de détaché d’une observation plus réfléchie, — l’humeur comique dans sa pure veine courante, qui l’assaillait, qui le distrayait, comme la servante du logis, même en ses plus sombres heures, et faisait remue-ménage à travers sa mélancolie habituelle, dans la profondeur ne s’en ébranlait pas.
-(Sainte-Beuve.)
-Qu’on vous attribue. C’est un latinisme, dare crimen alicui.
-
-    Pour devoir en distraire, signifie probablement pour avoir dû vous détourner d’une telle action. Il serait difficile d’être plus obscur. Ce passage, et bien d’autres, font voir que Molière suivait en versifiant la méthode de Boileau, de commencer par le second vers, et d’y renfermer toute l’énergie de la pensée dans les termes les plus propres. Le premier se faisant ensuite du mieux qu’on pouvait, ajusté sur le second. Molière a dû, comme Virgile, laisser souvent des hémistiches vides, qu’il remplissait à la hâte au dernier moment.
-    (F. Génin.)
