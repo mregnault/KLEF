@@ -1,6 +1,8 @@
 # KLEF
 License: CC BY-SA 3.0
 
+This corpus contains sources suggested by German students. We try to gather the data they come across in French, either in their studies our in their leisure time.
+
 ## Content
  - Literature: from Wikisource
  - Subtitles: from Open Subtitles website
@@ -31,7 +33,7 @@ License: CC BY-SA 3.0
  - *Tartuffe*, Molière, [Louandre edition 1910](https://fr.wikisource.org/wiki/Tartuffe_ou_l%E2%80%99Imposteur/%C3%89dition_Louandre,_1910)
 
 ### Poetry
- - *Les Châtiments*, Victor Hugo, [Hetzel edition, 1880](https://commons.wikimedia.org/wiki/File:Hugo_-_Les_Ch%C3%A2timents_(Hetzel,_1880).djvu)
+ - *Les Châtiments*, Victor Hugo, [Hetzel edition 1880](https://commons.wikimedia.org/wiki/File:Hugo_-_Les_Ch%C3%A2timents_(Hetzel,_1880).djvu)
  - *Les Contemplations*, Victor Hugo, [Nelson edition 1856](https://commons.wikimedia.org/wiki/File:Hugo_-_Les_Contemplations,_Nelson,_1856.djvu)
  - *Les Travailleurs de la mer*, Victor Hugo, [edition by Emile Testard, 1891](https://fr.m.wikisource.org/wiki/Les_Travailleurs_de_la_mer/Texte_entier)
  - *Les Fleurs du mal*, Baudelaire, [edition by Michel Lévy Frères, 1868](https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1868)/Texte_entier#SPLEEN_ET_ID%C3%89AL)
